@@ -1,27 +1,19 @@
-# ntpHosts - Ad and Tracking servers only
-#
-# The following are hosts in my files ONLY.
-# This file will NOT protect you against malicious domains
-#
-127.0.0.1 localhost #IPv4 localhost
-::1 localhost #IPv6 localhost
-#
-# BLOCKED SERVERS START HERE
-#
-127.0.0.1     0.cn.pool.ntp.org
-127.0.0.1     cn.pool.ntp.org
-127.0.0.1     asia.pool.ntp.org
-127.0.0.1     time.android.com
-127.0.0.1     graph.facebook.com
-127.0.0.1     account-asia-south1.truecaller.com
-127.0.0.1     alt2-mtalk.google.com
-127.0.0.1     alt3-mtalk.google.com
-127.0.0.1     alt4-mtalk.google.com
-127.0.0.1     alt5-mtalk.google.com
-127.0.0.1     alt6-mtalk.google.com
-127.0.0.1     shepherd.ff.avast.com
-127.0.0.1     mtalk.google.com
-127.0.0.1     link-reports-noneu.truecaller.com
-127.0.0.1     g.whatsapp.net
-127.0.0.1     static.whatsapp.net
-127.0.0.1     android.googleapis.com
+0.cn.pool.ntp.org
+cn.pool.ntp.org
+asia.pool.ntp.org
+time.android.com
+graph.facebook.com
+account-asia-south1.truecaller.com
+alt?-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+alt5-mtalk.google.com
+alt6-mtalk.google.com
+shepherd.ff.avast.com
+mtalk.google.com
+link-reports-noneu.truecaller.com
+g.whatsapp.net
+static.whatsapp.net
+android.googleapis.com
+d.line-scdn.net
