@@ -10,11 +10,13 @@ alt3-mtalk.google.com
 alt4-mtalk.google.com
 alt5-mtalk.google.com
 alt6-mtalk.google.com
+alt*-mtalk.google.com
 shepherd.ff.avast.com
 mtalk.google.com
 link-reports-noneu.truecaller.com
 g.whatsapp.net
 e7.whatsapp.net
+e*.whatsapp.net
 static.whatsapp.net
 android.googleapis.com
 d.line-scdn.net
