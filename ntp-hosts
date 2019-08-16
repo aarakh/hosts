@@ -1,7 +1,3 @@
-0.cn.pool.ntp.org
-cn.pool.ntp.org
-asia.pool.ntp.org
-pool.ntp.org
 time.android.com
 feed.ff.avast.com
 shepherd.ff.avast.com
@@ -43,6 +39,10 @@ nexus-websocket-a.intercom.io
 seppzrgo-android.mobile-sdk-api.intercom.io
 cix.line-apps.com
 d.line-scdn.net
+0.cn.pool.ntp.org
+cn.pool.ntp.org
+asia.pool.ntp.org
+pool.ntp.org
 smsorganizer.trafficmanager.net
 account-asia-south1.truecaller.com
 link-reports-noneu.truecaller.com
