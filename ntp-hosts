@@ -1,10 +1,12 @@
 0.cn.pool.ntp.org
 cn.pool.ntp.org
 asia.pool.ntp.org
+pool.ntp.org
 time.android.com
 graph.facebook.com
 account-asia-south1.truecaller.com
 mtalk.google.com
+google.com
 alt??-mtalk.google.com
 alt1-mtalk.google.com
 alt2-mtalk.google.com
@@ -50,3 +52,6 @@ nexus-websocket-a.intercom.io
 seppzrgo-android.mobile-sdk-api.intercom.io
 config-msdk.freshchat.com
 msdk.freshchat.com
+ajax.cloudflare.com
+www.hubtalk.com
+yt3.ggpht.com
