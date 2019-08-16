@@ -10,6 +10,7 @@ shepherd.ff.avast.com
 smsplatform.azurewebsites.net
 blokada.org
 ajax.cloudflare.com
+d1w2poirtb3as9.cloudfront.net
 reports.exodus-privacy.eu.org
 graph.facebook.com
 www.facebook.com
@@ -28,6 +29,7 @@ alt6-mtalk.google.com
 alt7-mtalk.google.com
 alt*-mtalk.google.com
 alt8-mtalk.google.com
+android.clients.google.com
 android.googleapis.com
 fonts.googleapis.com
 play.googleapis.com
@@ -36,6 +38,7 @@ cloudconfig.googleapis.com
 firebaseremoteconfig.googleapis.com
 imasdk.googleapis.com
 auditrecording-pa.googleapis.com
+lh3.googleusercontent.com
 yt3.ggpht.com
 www.gstatic.com
 ssl.gstatic.com
@@ -56,17 +59,22 @@ config.edge.skype.com
 smsorganizer.trafficmanager.net
 account-asia-south1.truecaller.com
 link-reports-noneu.truecaller.com
+ers.twilio.com
+cn-phx2.cfe.uber.com
+cn.cfe.uber.com
 g.whatsapp.net
 e??.whatsapp.net
 e7.whatsapp.net
 e*.whatsapp.net
 static.whatsapp.net
 upload.wikimedia.org
+d-11.winudf.com
 in.wzrkt.com
 in1-spiky.wzrkt.com
 wzrkt.com
 data.mistat.india.xiaomi.com
 metok-ccc.intl.xiaomi.com
+global.market.xiaomi.com
 www.youtube.com
 i.ytimg.com
 s.ytimg.com
