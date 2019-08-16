@@ -11,6 +11,7 @@ idmb-app-chat-global-xiaomi05-1961044139.ap-south1-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi06-2047145834.ap-south1-1.elb.amazonaws.com
 resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com
 spectrum.s3.amazonaws.com
+andr.eu.ec.api.amazonvideo.com
 connectivitycheck.android.com
 time.android.com
 e-ssl.apsalar.com
@@ -19,7 +20,7 @@ shepherd.ff.avast.com
 vanheim.ff.avast.com
 smsplatform.azurewebsites.net
 blokada.org
-api.braingateway.com
+api.braintreegateway.com
 ajax.cloudflare.com
 d1w2poirtb3as9.cloudfront.net
 reports.crashlytics.com
@@ -60,6 +61,7 @@ www.gstatic.com
 ssl.gstatic.com
 fonts.gstatic.com
 todosupport.helpshift.com
+thehindupaper.xyz
 www.hubtalk.com
 nexus-websocket-a.intercom.io
 seppzrgo-android.mobile-sdk-api.intercom.io
@@ -108,6 +110,8 @@ global.market.xiaomi.com
 resolver.msg.global.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 t5.market.xiaomi.com
+resolver.msg.global.xiaomi.net
+app.chat.global.xiaomi.net
 www.youtube.com
 i.ytimg.com
 s.ytimg.com
