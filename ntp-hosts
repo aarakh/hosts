@@ -1,12 +1,18 @@
 app.adjust.com
 in-tpl.adiquity.com
+aax-eu.amazon-adsystem.com
+mads.amazon-adsystem.com
 nwexp.airtel.com
 content.airtel.tv
 events.airtel.tv
 layout.airtel.tv
+app-01-me.airtel.com
 www.airtel.in
 jep-asset.akamaized.net
+arcus-uswest.amazon.com
+andr.ec.api.amazonvideo.com
 api.amazon.in
+images-na.ssl-images-amazon.com
 msh.amazon.co.uk
 s3-ap-northeast-1.amazonaws.com
 idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
@@ -33,6 +39,7 @@ ajax.cloudflare.com
 d1w2poirtb3as9.cloudfront.net
 reports.crashlytics.com
 reports.exodus-privacy.eu.org
+facebook.com
 graph.facebook.com
 connect.facebook.net
 www.facebook.com
@@ -88,7 +95,11 @@ app-measurement.com
 t5.market.mi-img.com
 api.sec.miui.com
 file.update.miui.com
+flash.sec.intl.miui.com
 sa.api.intl.miui.com
+decide.mixpanel.com
+api.mixpanel.com
+mobile.pipe.aria.microsoft.com
 snippets.cdn.mozilla.net
 0.cn.pool.ntp.org
 cn.pool.ntp.org
@@ -131,6 +142,7 @@ e15.whatsapp.net
 e16.whatsapp.net
 e*.whatsapp.net
 static.whatsapp.net
+sonar.fpnq7-1.fna.whatsapp.net
 upload.wikimedia.org
 d-11.winudf.com
 img.wynk.in
@@ -148,6 +160,7 @@ sdkconfig.ad.intl.xiaomi.com
 t5.market.xiaomi.com
 resolver.msg.global.xiaomi.net
 app.chat.global.xiaomi.net
+path1.xtracloud.net
 www.youtube.com
 i.ytimg.com
 s.ytimg.com
