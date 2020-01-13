@@ -74,6 +74,7 @@ imasdk.googleapis.com
 safebrowsing.googleapis.com
 auditrecording-pa.googleapis.com
 geomobileservices-pa.googleapis.com
+*.googleapis.com
 ssl.google-analytics.com
 mdh-pa.googleapis.com
 lh3.googleusercontent.com
@@ -109,6 +110,7 @@ snippets.cdn.mozilla.net
 cn.pool.ntp.org
 asia.pool.ntp.org
 pool.ntp.org
+*pool.ntp.org
 open.oneplus.net
 cn-dc1.oojoovae.org
 www.paypalobjects.com
@@ -125,6 +127,7 @@ presence-grpc-noneu.truecaller.com
 contact-upload4-noneu.truecaller.com
 account-asia-south1.truecaller.com
 link-reports-noneu.truecaller.com
+*.truecaller.com
 ers.twilio.com
 cn-phx2.cfe.uber.com
 cn.cfe.uber.com
