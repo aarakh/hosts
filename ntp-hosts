@@ -34,6 +34,7 @@ smsplatform.azurewebsites.net
 blokada.org
 api.braintreegateway.com
 ic.bsbportal.com
+open.camscanner.com
 *.cloudflare.com
 *.cloudfront.net
 *.crashlytics.com
@@ -115,6 +116,7 @@ open.oneplus.net
 cn-dc1.oojoovae.org
 www.paypalobjects.com
 assetscdn.paytm.com
+api.phonepe.com
 ps.pndsn.com
 cgi.connect.qq.com
 *.salesforce.com
