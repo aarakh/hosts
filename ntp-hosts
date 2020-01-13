@@ -5,6 +5,7 @@ mads.amazon-adsystem.com
 nwexp.airtel.com
 *.airtel.tv
 app-01-me.airtel.com
+digi-api.airtel.in
 www.airtel.in
 jep-asset.akamaized.net
 arcus-uswest.amazon.com
@@ -25,6 +26,8 @@ andr.eu.ec.api.amazonvideo.com
 connectivitycheck.android.com
 time.android.com
 43ecb0d997911617b1332add5539afbf.api.appsee.com
+*.appsflyer.com
+*.apxor.com
 e-ssl.apsalar.com
 *.ff.avast.com
 smsplatform.azurewebsites.net
@@ -34,12 +37,16 @@ ic.bsbportal.com
 *.cloudflare.com
 *.cloudfront.net
 *.crashlytics.com
+*cloudinary.com
 reports.exodus-privacy.eu.org
 *.facebook.net
+*.facebook.com
 www.facebook.com
 mobileapi.flipkart.com
 *.freshchat.com
 msdk.freshchat.com
+*.force.com
+*.hungama.com
 clients3.google.com
 clients4.google.com
 *-mtalk.google.com
@@ -74,10 +81,12 @@ yt3.ggpht.com
 www.gstatic.com
 ssl.gstatic.com
 fonts.gstatic.com
+*.gupshup.io
 otag.h2os.com
 todosupport.helpshift.com
 thehindupaper.xyz
 www.hubtalk.com
+*imgur.com
 nexus-websocket-a.intercom.io
 seppzrgo-android.mobile-sdk-api.intercom.io
 api.media.jio.com
@@ -95,6 +104,7 @@ decide.mixpanel.com
 api.mixpanel.com
 mobile.pipe.aria.microsoft.com
 snippets.cdn.mozilla.net
+*.pool.ntp.org
 0.cn.pool.ntp.org
 cn.pool.ntp.org
 asia.pool.ntp.org
@@ -104,8 +114,11 @@ cn-dc1.oojoovae.org
 www.paypalobjects.com
 assetscdn.paytm.com
 ps.pndsn.com
+cgi.connect.qq.com
+*.salesforce.com
 config.edge.skype.com
 oneclient.sfx.ms
+analytics.swiggy.com
 tigger-citadel.touchtype-fluency.com
 smsorganizer.trafficmanager.net
 presence-grpc-noneu.truecaller.com
@@ -168,7 +181,6 @@ sentry.zomans.com
 *.google-analytics.com
 *.akamaized.net
 *.appsflyer.com
-*.facebook.com
 *.android.com
 *.ntp.org
 *.googleapis.com
@@ -187,4 +199,5 @@ sentry.zomans.com
 *.truecaller.com
 *.gstatic.com
 *.app-measurement.com
-*.trafficmanager.net
+*digitallocker.gov.in
+*.digitallocker.gov.in
