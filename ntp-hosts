@@ -1,4 +1,5 @@
 app.adjust.com
+app-measurement.com
 in-tpl.adiquity.com
 aax-eu.amazon-adsystem.com
 mads.amazon-adsystem.com
@@ -7,6 +8,7 @@ content.airtel.tv
 events.airtel.tv
 layout.airtel.tv
 app-01-me.airtel.com
+oemm2.airtel.com
 digi-api.airtel.in
 scooby.airtel.in
 www.airtel.in
@@ -25,10 +27,14 @@ idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
 resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com
 spectrum.s3.amazonaws.com
+uber-static.s3.amazonaws.com
+s3.amazonaws.com
+send-assets.s3-ap.southeast-1.amazonaws.com
 andr.eu.ec.api.amazonvideo.com
 connectivitycheck.android.com
 time.android.com
 43ecb0d997911617b1332add5539afbf.api.appsee.com
+serverg.apxor.com
 e-ssl.apsalar.com
 feed.ff.avast.com
 shepherd.ff.avast.com
@@ -89,12 +95,14 @@ ssl.gstatic.com
 fonts.gstatic.com
 encypted-tbn0.gstatic.com
 todosupport.helpshift.com
+httpdns-push.heytapmobile.com
 thehindupaper.xyz
 www.hubtalk.com
 nexus-websocket-a.intercom.io
 seppzrgo-android.mobile-sdk-api.intercom.io
 download.intsig.net
 api.intsig.net
+api-cs.intsig.net
 cs-tmpmsg.intsig.net
 api.media.jio.com
 app-03.engage.jio.com
@@ -111,6 +119,7 @@ decide.mixpanel.com
 api.mixpanel.com
 mobile.pipe.aria.microsoft.com
 snippets.cdn.mozilla.net
+apiv2.moengage.com
 0.cn.pool.ntp.org
 cn.pool.ntp.org
 asia.pool.ntp.org
@@ -125,6 +134,8 @@ cgi.connect.qq.com
 config.edge.skype.com
 oneclient.sfx.ms
 apis.smartspends.com
+static.smartspends.com
+feeds.smartspends.com
 analytics.swiggy.com
 tigger-citadel.touchtype-fluency.com
 smsorganizer.trafficmanager.net
@@ -137,6 +148,7 @@ cn-phx2.cfe.uber.com
 cn.cfe.uber.com
 api.weathercn.com
 c.in.webengage.com
+wsdk-files.in.webengage.com
 g.whatsapp.net
 e??.whatsapp.net
 e1.whatsapp.net
@@ -181,6 +193,7 @@ i.ytimg.com
 s.ytimg.com
 b.zmtcdn.com
 sentry.zomans.com
+jumbo.zomato.com
 send.zomato.com
 www.gstatic.com
 email.uber.com
