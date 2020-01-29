@@ -8,6 +8,7 @@ events.airtel.tv
 layout.airtel.tv
 app-01-me.airtel.com
 digi-api.airtel.in
+scooby.airtel.in
 www.airtel.in
 jep-asset.akamaized.net
 arcus-uswest.amazon.com
@@ -40,6 +41,7 @@ ajax.cloudflare.com
 d1w2poirtb3as9.cloudfront.net
 reports.crashlytics.com
 open.camscanner.com
+googleads.g.doubleclick.net
 reports.exodus-privacy.eu.org
 facebook.com
 graph.facebook.com
@@ -48,8 +50,6 @@ www.facebook.com
 mobileapi.flipkart.com
 config-msdk.freshchat.com
 msdk.freshchat.com
-*.force.com
-*.hungama.com
 clients3.google.com
 clients4.google.com
 mtalk.google.com
@@ -65,8 +65,11 @@ alt6-mtalk.google.com
 alt7-mtalk.google.com
 alt*-mtalk.google.com
 alt8-mtalk.google.com
+clients3.google.com
 android.clients.google.com
+ajax.googleapis.com
 android.googleapis.com
+clientservices.googleapis.com
 fonts.googleapis.com
 play.googleapis.com
 www.googleapis.com
@@ -84,12 +87,15 @@ yt3.ggpht.com
 www.gstatic.com
 ssl.gstatic.com
 fonts.gstatic.com
+encypted-tbn0.gstatic.com
 todosupport.helpshift.com
 thehindupaper.xyz
 www.hubtalk.com
-*imgur.com
 nexus-websocket-a.intercom.io
 seppzrgo-android.mobile-sdk-api.intercom.io
+download.intsig.net
+api.intsig.net
+cs-tmpmsg.intsig.net
 api.media.jio.com
 app-03.engage.jio.com
 nav.jiobuzz.com
@@ -105,12 +111,10 @@ decide.mixpanel.com
 api.mixpanel.com
 mobile.pipe.aria.microsoft.com
 snippets.cdn.mozilla.net
-*.pool.ntp.org
 0.cn.pool.ntp.org
 cn.pool.ntp.org
 asia.pool.ntp.org
 pool.ntp.org
-*pool.ntp.org
 open.oneplus.net
 cn-dc1.oojoovae.org
 www.paypalobjects.com
@@ -118,7 +122,6 @@ assetscdn.paytm.com
 api.phonepe.com
 ps.pndsn.com
 cgi.connect.qq.com
-*.salesforce.com
 config.edge.skype.com
 oneclient.sfx.ms
 analytics.swiggy.com
@@ -128,7 +131,6 @@ presence-grpc-noneu.truecaller.com
 contact-upload4-noneu.truecaller.com
 account-asia-south1.truecaller.com
 link-reports-noneu.truecaller.com
-*.truecaller.com
 ers.twilio.com
 cn-phx2.cfe.uber.com
 cn.cfe.uber.com
@@ -177,6 +179,10 @@ i.ytimg.com
 s.ytimg.com
 b.zmtcdn.com
 sentry.zomans.com
+send.zomato.com
+www.gstatic.com
+email.uber.com
+zapi.airtel.in
 000000000.fls.doubleclick.net
 000000.fls.doubleclick.net
 000.fls.doubleclick.net
