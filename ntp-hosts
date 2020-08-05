@@ -3,14 +3,23 @@
 *.akamaized.net
 *.amazon.com
 *.amazonaws.com
+*.appsflyer.com
 *.cloudfront.net
 *.cloudinary.com
 *.digitallocker.gov.in
 *.etmoney.com
+*.facebook.com
+*.forkcdn.com
 *.google.com
 *.googleapis.com
 *.gstatic.com
+*.in-addr.arpa
 *.in.webengage.com
+*.intl.miui.com
+*.jpush.cn
+*.market.mi-img.com
+*.market.xiaomi.com
+*.mzstatic.com
 *.phonepe.com
 *.pool.ntp.org
 *.scdn.co
@@ -18,7 +27,10 @@
 *.smartspends.com
 *.spotify.com
 *.spotifycdn.net
+*.tancdn.com
+*.tantanapp.com
 *.trafficmanager.net
+*akamaized.net
 0.cn.pool.ntp.org
 0.fls.doubleclick.net
 00.video-ak.cdn.spotify.com
@@ -414,6 +426,7 @@
 9f.video-ak.cdn.spotify.com
 a.adk2x.com
 a.admob.com
+a.happn.com
 a0.video-ak.cdn.spotify.com
 a1.video-ak.cdn.spotify.com
 a1197.dscc.akamai.net
@@ -544,6 +557,7 @@ adservice.google.se
 adstudio-assets.scdn.co
 adstudio.spotify.com
 advertisers.l.doubleclick.net
+ae.gsecondscreen.com
 ae.video-ak.cdn.spotify.com
 af.video-ak.cdn.spotify.com
 afconsult.com
@@ -556,6 +570,7 @@ ajax.googleapis.com
 ajdivotdelbloab24.jio.com
 akamaihd.net
 aksb-a.akamaihd.net
+alfred.wru.ai
 alpha4.test02.edgecastcdn.net
 alpha6.test02.edgecastcdn.net
 alt??-mtalk.google.com
@@ -608,20 +623,25 @@ android.googleapis.com
 android.prod.cloud.netflix.com
 android.prod.ftl.netflix.com
 anycast.pixel.adsafeprotected.com
+api-cengine.forkcdn.com
 api-cs.intsig.net
 api-iam.intercom.io
 api-ping.intercom.io
 api.admob.com
 api.admob.xiaomi.com
+api.agora.io
 api.amazon.in
 api.braintreegateway.com
 api.comscore.com
+api.hamsterbeat.com
+api.hotshotapp.io
 api.intercom.io
 api.intsig.net
 api.launcher.intl.miui.com
 api.media.jio.com
 api.mixpanel.com
 api.phonepe.com
+api.pushamplify.com
 api.sec.miui.com
 api.wac.0367.edgecastcdn.net
 api.wac.4867.edgecastcdn.net
@@ -1001,6 +1021,7 @@ beta.datasharing.spotify.com
 beta.spotify.map.fastlylb.net
 beta.tune.com
 bf.video-ak.cdn.spotify.com
+blocklists.settings.services.mozilla.com
 blokada.org
 bo.jumptap.com
 bos-tapreq01.jumptap.com
@@ -1106,12 +1127,16 @@ c8.video-ak.cdn.spotify.com
 c9.video-ak.cdn.spotify.com
 ca.video-ak.cdn.spotify.com
 canvaspl-a.akamaihd.net
+capi.hungama.com
 cb.video-ak.cdn.spotify.com
 cc.video-ak.cdn.spotify.com
 cd.video-ak.cdn.spotify.com
 cdn.adnxs.com
 cdn.fastclick.net 
+cdn.gumlet.com
+cdn.onlymega.com
 cdn.ravenjs.com
+cdn.vuukle.com
 cdn.wac.0b12.edgecastcdn.net
 cdn.wac.14c4.edgecastcdn.net
 cdn.wac.9972.edgecastcdn.net
@@ -1241,6 +1266,7 @@ cs876.wac.edgecastcdn.net
 cs907.wac.edgecastcdn.net
 cs934.wac.thetacdn.net
 cs977204322.wpc.edgecastcdn.net
+csp.uber.com
 cupdates.trusteer.com
 d-11.winudf.com
 d.admob.com
@@ -1262,6 +1288,7 @@ d7.video-ak.cdn.spotify.com
 d8.video-ak.cdn.spotify.com
 d9.video-ak.cdn.spotify.com
 da.video-ak.cdn.spotify.com
+dac.forkcdn.com
 data.mistat.india.xiaomi.com
 datasharing.spotify.com
 db.video-ak.cdn.spotify.com
@@ -1281,6 +1308,7 @@ df.video-ak.cdn.spotify.com
 digi-api.airtel.in
 digitalassetlinks.googleapis.com
 dipcon.com
+disc.swiggy.com
 dl2.pushbulletusercontent.com
 dns1.nsone.net
 dns1.p01.nsone.net
@@ -1367,6 +1395,7 @@ e8218.dscb1.akamaiedge.net
 e9.video-ak.cdn.spotify.com
 e9.whatsapp.net
 ea.video-ak.cdn.spotify.com
+easytomessage.com
 eb.video-ak.cdn.spotify.com
 ebaycn.doubleclick.net
 ebaytw.doubleclick.net
@@ -1398,6 +1427,7 @@ event.api.cp.tune.com
 event.spotxchange.com
 events.adjust.com
 events.airtel.tv
+events.uber.com
 evt.moatads.com
 exnjadgda1.doubleclick.net
 exnjadgda2.doubleclick.net
@@ -1478,6 +1508,7 @@ facebook.com
 fc.video-ak.cdn.spotify.com
 fd.video-ak.cdn.spotify.com
 fe.video-ak.cdn.spotify.com
+fea.assettype.com
 feed.ff.avast.com
 feedads.g.doubleclick.net
 feeds.smartspends.com
@@ -1905,6 +1936,7 @@ googleadservices.com
 googlesyndication.com
 graph.facebook.com
 gtssl2-ocsp.geotrust.com
+gumlet.assettype.com
 gw.admob.com
 h.admob.com
 heads-ak.spotify.com
@@ -1923,6 +1955,7 @@ hedwig.zomato.com
 hl-display.com
 httpdns-push.heytapmobile.com
 i.admob.com
+i.imgur.com
 i.jumptap.com
 i.ytimg.com
 ia1.comscore.com
@@ -1936,6 +1969,7 @@ idmb-app-chat-global-xiaomi03-1358177476.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
+idmb.app.chat.global.xiaomi.net
 im.comscore.com
 images-na.ssl-images-amazon.com
 images.comscore.com
@@ -1958,15 +1992,18 @@ img.ads3.mojiva.com
 img.ads4.mocean.mobi
 img.ads4.mojiva.com
 img.wynk.in
+imgur.com
 imqvs2qippm65n6g2qtyyqimyeggervnt64cyzl2x2fduo6g.tb6aoen5rgxsd3vrsm5x6257pe43ez5jpbpqs7mnhfd2gwpm.6p43cx5jyukului62krjkjbuw27drk43s2wizh2rqbzqnoix.rr4lyf2ny4j5pit663giazaneive3wnxoi67oietaezfarxq.nvkux5go6wfzevmi.er.spo.spotify.com
 in-tpl.adiquity.com
 in.getclicky.com
+in.pinterest.com
 in.wzrkt.com
 in1-spiky.wzrkt.com
 intercom.io
 internal.akadns.net
 internal.intercom.io
 ipinfo.io
+itunes.apple.com
 iv.doubleclick.net
 j.admob.com
 jep-asset.akamaized.net
@@ -1994,6 +2031,8 @@ links.spotify.com
 linsey.lon2.spotify.com
 live.adyen.com
 ln.doubleclick.net
+location.wynk.in
+log.agileadnetwork.com
 log.spotify.com
 log2.spotify.com
 logs.juspay.in
@@ -2156,6 +2195,7 @@ lon6-accesspoint-a7.lon6.spotify.com
 lon6-accesspoint-c1.lon6.spotify.com
 m.2mdn.net
 m.admob.com
+m.data.mob.com
 m.de.2mdn.net
 m.doubleclick.net
 m1.2mdn.net
@@ -2491,6 +2531,7 @@ mmv.admob.com
 moat.pxl.ace.advertising.com
 moatads.com
 moatads.com.edgekey.net
+mobile-ap.spotify.com
 mobile-collector.newrelic.com
 mobile-sdk-api.intercom.io
 mobile.pipe.aria.microsoft.com
@@ -2532,6 +2573,7 @@ ns4.dynamicnetworkservices.net
 ns5.dynamicnetworkservices.net
 ns6.dynamicnetworkservices.net
 ns7.dynamicnetworkservices.net
+ntp1.aliyun.com
 nwexp.airtel.com
 o-o---preferred---sn-5uaezn7y---v24---cache.c.googlesyndication.com
 o-o---preferred---sn-5uaeznek---v10---cache.c.googlesyndication.com
@@ -2620,6 +2662,7 @@ partneraudiences.spotify.com
 path1.xtracloud.net
 payment-callback.spotify.com
 pci.spotify.com
+phonedeviceverification-pa.googleapis.com
 pixel-static.spotify.com
 pixel.admobclick.com
 pixel.moatads.com
@@ -2630,6 +2673,7 @@ pl35t7bb4aabglvz2i3btceznecjh4fka7m6ppyzdthifgcq.obfxt53kpvuicjyib3vacc5db3htskg
 platform-lookaside.fbsbx.com
 play.googleapis.com
 playlist.ma.tune.com
+plus.uber.com
 pool.ntp.org
 pool3.moatads.com
 pool5.moatads.com
@@ -2645,6 +2689,7 @@ prod.spotify-heads.map.fastlylb.net
 prod.spotify.map.fastlylb.net
 prod.www-fastly-com.map.fastly.net
 prod8.qlik.com
+profile.swiggy.com
 promo-001.lon.spotify.com
 promo.spotify.com
 ps.pndsn.com
@@ -2652,6 +2697,7 @@ pschedlb01.lga02.nsone.net
 pt.admob.com
 pub-net-srx-int-testing.spotify.com
 pubads.g.doubleclick.net
+publish.vuukle.com
 px.moatads.com
 q.admob.com
 qat.comscore.com
@@ -3371,6 +3417,7 @@ sjc1-weblb-wg4.sjc1.spotify.com
 sjc1-weblb-wg5.sjc1.spotify.com
 smsorganizer.trafficmanager.net
 smsplatform.azurewebsites.net
+smsplatform.trafficmanager.net
 smtp.admob.com
 smtp2.admob.com
 sn-vgqs7n76.c.googlesyndication.com
@@ -3403,6 +3450,8 @@ sto3-accesspoint-a88.sto3.spotify.net
 sto3-tbdscan-a2.sto3.spotify.com
 sto3-vmddelivery-b1.sto3.spotify.com
 store.intercom.io
+subscriptionapi.zee5.com
+substrate.office.com
 suk6mvixsl7e7pnqmcxzq2nlrv23orxa4lnmqehevie5lr46.qcfzwrpafytxzuzudly53cdpuinbus5dryc5yyluqfgstdbk.ifcouvs4yrkvq54g3sqlvxg6iwtieqko3d4z6g43c2na2xok.5l6armklu65sqea3msfquneq7rjwynp42nva5f7pl5qx4a7x.erz4onrdnlviivki.er.spo.spotify.com
 support.tune.com
 surveys.spotify.com
@@ -3417,6 +3466,7 @@ t.update.moatads.com
 t14.market.xiaomi.com
 t5.market.mi-img.com
 t5.market.xiaomi.com
+tags.tiqcdn.com
 tap1.vip.sc9.admob.com
 teradata.qlik.com
 terraform-modules-test.intercom.io
@@ -3475,6 +3525,7 @@ vanheim.ff.avast.com
 vast.moatads.com
 vastx.moatads.com
 via.intercom.io
+vibecdn.forkcdn.com
 video-ad-stats.googlesyndication.com
 view.adjust.com
 vip.sc9.admob.com
@@ -3929,6 +3980,7 @@ www.dev.spotify.pinterest.adtz.com
 www.etmoney.com
 www.facebook.com
 www.google.com
+www.google.ru
 www.googleadservices.com
 www.googleapis.com
 www.googletagservices.com
@@ -3944,8 +3996,10 @@ www.r5---sn-buq-njal.c.2mdn.net
 www.spotify.facebook-ads.adtz.com
 www.spotify.pinterest.adtz.com
 www.spotx.tv
+www.thequint.com
 www.ui.cp.tune.com
 www.upv4.moatads.com
+www.valueresearchonline.com
 www.youtube.com
 www1.vip.sc9.admob.com
 www2.doubleclick.net
@@ -3957,6 +4011,7 @@ x.admob.com
 xe-0-0-3-0.agg1.zur1.ch.m247.com
 xe-3-3-1-0.core1.fra2.de.m247.com
 xfactor.spotify.com
+xiaomi-sdkbackend.gupshup.io
 y.admob.com
 y.moatads.com
 yj.moatads.com
