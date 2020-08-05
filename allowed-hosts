@@ -15,10 +15,14 @@ cn-phx2.cfe.uber.com
 cognito-identity.us-east-1.amazonaws.com
 d1a3f4spazzrp4.cloudfront.net
 d1w2poirtb3as9.cloudfront.net
+digi-api.airtel.in
 disc.swiggy.com
+dyrrggeck87jc.cloudfront.net
 elibom.digitallocker.gov.in
 events.uber.com
 file.update.miui.com
+fonts.googleapis.com
+fonts.gstatic.com
 ga2s.line.naver.jp
 google.com
 i.scdn.co
@@ -30,6 +34,7 @@ maps.google.com
 mmg.whatsapp.net
 mobile-ap.spotify.com
 mobileapi.flipkart.net
+msh.amazon.co.uk
 myairtelapp.bsbportal.com
 myjio-rl-prod.jioconnect.com
 occ-0-2085-2164.1.nflxso.net
@@ -44,6 +49,7 @@ search5-noneu.truecaller.com
 seppzrgo-android.mobile-sdk-api.intercom.io
 slack.com
 spclient.wg.spotify.com
+ssl.google-analytics.com
 static.whatsapp.net
 storage.live.com
 substrate.office.com
@@ -53,5 +59,6 @@ www.amazon.com
 www.google.com
 www.gstatic.com
 www.youtube.com
+zapi.airtel.in
 zee5vod.akamaized.net
 zomato-data.s3.ap-southeast-1.amazonaws.com
