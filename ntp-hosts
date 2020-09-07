@@ -6,6 +6,7 @@
 *.appsflyer.com
 *.cloudfront.net
 *.cloudinary.com
+*.crashlytics.com
 *.digitallocker.gov.in
 *.etmoney.com
 *.facebook.com
@@ -22,6 +23,10 @@
 *.mzstatic.com
 *.phonepe.com
 *.pool.ntp.org
+*.samsung.com
+*.samsungapps.com
+*.samsunghealth.com
+*.samsungknowledge.com
 *.scdn.co
 *.sendgrid.net
 *.smartspends.com
@@ -683,6 +688,7 @@ app3.hkg.1a31.edgecastcdn.net
 app3.syd.04f1.edgecastcdn.net
 app4.lhr.001a.edgecastcdn.net
 appnext-a.akamaihd.net
+appr.1plus.io
 apresolve.spotify.com
 apx.moatads.com
 ar.voicefive.com
@@ -1408,6 +1414,7 @@ eng.admob.com
 engineering.intercom.io
 ers.twilio.com
 eu-gmtdmp.gd1.mookie1.com
+evbk.gamooga.com
 event.api.cp.tune.com
 event.spotxchange.com
 events.adjust.com
@@ -1980,6 +1987,7 @@ in1-spiky.wzrkt.com
 intercom.io
 internal.akadns.net
 internal.intercom.io
+ipecho.net
 ipinfo.io
 itunes.apple.com
 iv.doubleclick.net
@@ -2671,6 +2679,7 @@ pubads.g.doubleclick.net
 publish.vuukle.com
 px.moatads.com
 q.admob.com
+qa-1plus.gupshup.io
 qat.comscore.com
 qlikid-qa.qlik.com
 qlikprod1.qlik.com
@@ -3366,6 +3375,7 @@ settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com
 settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
 settings.crashlytics.com
 sgwww.spotify.com
+sharing-config.spotifycdn.com
 shepherd.ff.avast.com
 showads33000.pubmatic.com
 showcase3.qlik.com
@@ -3394,6 +3404,7 @@ sn-vgqs7n76.c.googlesyndication.com
 snippets.cdn.mozilla.net
 soma.smaato.net
 sonar.fpnq7-1.fna.whatsapp.net
+spclient.wg.spotify.com
 spectrum.s3.amazonaws.com
 spotify.backtrace.io
 spotify.c3metrics.com
@@ -3950,6 +3961,7 @@ www.google.ru
 www.googleadservices.com
 www.googleapis.com
 www.googletagservices.com
+www.gstatic.com
 www.hubtalk.com
 www.intercom.io
 www.mixpanel.com
