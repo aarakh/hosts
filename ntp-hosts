@@ -23,6 +23,8 @@
 *.market.xiaomi.com
 *.mzstatic.com
 *.phonepe.com
+*.nflxvideo.net
+*.nflxso.net
 *.pool.ntp.org
 *.samsung.com
 *.samsungapps.com
@@ -1836,6 +1838,7 @@ fra60.ib.adnxs.com
 fra61.ib.adnxs.com
 fra62.ib.adnxs.com
 fra63.ib.adnxs.com
+audible.sc.omtrdc.net
 fra64.ib.adnxs.com
 fra65.ib.adnxs.com
 fra68.ib.adnxs.com
