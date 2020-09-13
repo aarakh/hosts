@@ -3,11 +3,12 @@ android.clients.google.com
 android.prod.cloud.netflix.com
 api.amazon.com
 api.amazon.in
+apu.audible.in
 api.phonepe.com
+api.piggy.co.in
 api.zomato.com
 app-03.engage.jio.com
 arcus-uswest.amazon.com
-audible.sc.omtrdc.net
 audio-sp-sin-13.spotifycdn.net
 audio4-fa.scdn.co
 blokada.org
@@ -32,6 +33,7 @@ imap-mail.outlook.com
 login.live.com
 login5.spotify.com
 maps.google.com
+m.lazypay.in
 mmg.whatsapp.net
 mobile-ap.spotify.com
 mobileapi.flipkart.net
@@ -54,6 +56,7 @@ static.whatsapp.net
 storage.live.com
 substrate.office.com
 update.intl.miui.com
+www.audible.in
 www.airtel.in
 www.amazon.com
 www.google.com
