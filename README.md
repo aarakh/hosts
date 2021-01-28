@@ -2,6 +2,7 @@
 My Host Files for AdBlock,PiHole
 
 blocked-hosts -- acts as blacklist
+
 allowed-hosts -- acts as whitelist
 
 
