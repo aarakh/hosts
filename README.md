@@ -1,7 +1,8 @@
 # hosts
-Host Files for AdBlock
-ntp-hosts -- acts as blacklist
+My Host Files for AdBlock,PiHole
+
+blocked-hosts -- acts as blacklist
 allowed-hosts -- acts as whitelist
 
 
-Both the files can be used in popular Adblockers
+Both the files can be used in popular Adblockers,PiHole
