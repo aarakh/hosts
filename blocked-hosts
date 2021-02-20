@@ -1,5 +1,4 @@
 
-
 (^r)+([0-9])\-+([a-z]+)\-([a-z,a-z,0-9]+\.([a-z])+\.([a-z])+)
 0.cn.pool.ntp.org
 0.fls.doubleclick.net
@@ -528,7 +527,6 @@ adstudio-assets.scdn.co
 adstudio.spotify.com
 advertisers.l.doubleclick.net
 ae.gsecondscreen.com
-ae.gsecondscreen.com
 ae.video-ak.cdn.spotify.com
 af.video-ak.cdn.spotify.com
 afconsult.com
@@ -611,7 +609,6 @@ api.launcher.intl.miui.com
 api.media.jio.com
 api.mixpanel.com
 api.pushamplify.com
-api.pushamplify.com
 api.samsungcloud.com
 api.sec.intl.miui.com
 api.sec.miui.com
@@ -627,13 +624,11 @@ apis.smartspends.com
 apiskywebbercom-a.akamaihd.net
 apiv2.gaana.com
 apiv2.moengage.com
-apiv2.moengage.com
 app-01-me.airtel.com
 app-measurement.com
 app.adjust.com
 app.adjust.net.in
 app.adjust.world
-app.airtelbank.com
 app.airtelbank.com
 app.chat.global.xiaomi.net
 app.engage.jio.com
@@ -671,10 +666,7 @@ app3.syd.04f1.edgecastcdn.net
 app4.lhr.001a.edgecastcdn.net
 appnext-a.akamaihd.net
 appr.1plus.io
-appr.1plus.io
 appx.transient.amazon.in
-appx.transient.amazon.in
-apresolve.spotify.com
 apresolve.spotify.com
 apsoutheast.gateway.push.samsungosp.com
 apx.moatads.com
@@ -868,13 +860,11 @@ ask.fedoraproject.org
 asrv-a.akamaihd.net
 assets.adobedtm.com
 assets.airtel.in
-assets.airtel.in
 assets.spotify.com
 assets.wac.8442.edgecastcdn.net
 assetscdn.paytm.com
 atom.adjust.com
 audible.sc.omtrdc.net
-audio-ak-spotify-com.akamaized.net
 audio-ak-spotify-com.akamaized.net
 audio-ak.spotify.com
 audio-ak.spotify.com.edgesuite.net
@@ -1003,7 +993,6 @@ ba.video-ak.cdn.spotify.com
 bb.video-ak.cdn.spotify.com
 bc.video-ak.cdn.spotify.com
 bcmls2.glpals.com
-bcmls2.glpals.com
 bd.moatads.com
 bd.video-ak.cdn.spotify.com
 be.video-ak.cdn.spotify.com
@@ -1041,14 +1030,12 @@ broadcast.admob.com
 bs.serving-sys.com
 bsams.eyeblaster.akadns.net
 btcpay.blocka.net
-btcpay.blocka.net
 buy-link-001.lon.spotify.com
 c-evt.moatads.com
 c.2mdn.net
 c.admob.com
 c.in.webengage.com
 c0.video-ak.cdn.spotify.com
-c0.wp.com
 c0.wp.com
 c01.smaato.net
 c02.smaato.net
@@ -1180,7 +1167,6 @@ coalmine.edgecastcdn.net
 code.fastclick.net
 code.highcharts.com
 collector.samsungknowledge.com
-collector.samsungknowledge.com
 combine.urbanairship.com
 community.blockada.org
 completion.amazon.co.uk
@@ -1195,11 +1181,9 @@ conf-in-dc.heytapmobile.com
 config-api.internet.apps.samsung.com
 config-msdk.freshchat.com
 config.edge.skype.com
-config.edge.skype.com
 configuration.ma.tune.com
 connect.facebook.net
 connectivitycheck.android.com
-connectivitycheck.gstatic.com
 connectivitycheck.gstatic.com
 contact-upload4-noneu.truecaller.com
 content.airtel.tv
@@ -1313,7 +1297,6 @@ dcape-na.amazon.com
 dd.video-ak.cdn.spotify.com
 de.video-ak.cdn.spotify.com
 dealer.spotify.com
-decide.mixpanel.com
 decide.mixpanel.com
 demos2.qlik.com
 dep.admob.com
@@ -1436,7 +1419,6 @@ eip-onnet.audio-ak.spotify.com.akahost.net
 eip-tata.audio-ak.spotify.com.akahost.net
 ejs.moatads.com
 email.uber.com
-encrypted-tbn0.gstatic.com
 encrypted-tbn0.gstatic.com
 encypted-tbn0.gstatic.com
 eng.admob.com
@@ -1898,7 +1880,6 @@ ftp.fau.de
 funky.staging.intercom.io
 g.admob.com
 g.whatsapp.net
-g.whatsapp.net
 gads.pubmatic.com
 gads22000.pubmatic.com
 gae2-accesspoint-a-n6qx.ap.spotify.com
@@ -1991,17 +1972,11 @@ httpdns.ocloud.heytapmobi.com
 hub-odc.samsungapps.com
 i.admob.com
 i.imgur.com
-i.imgur.com
-i.imgur.com
 i.jumptap.com
 i.scdn.co
 i.ytimg.com
-i.ytimg.com
 i0.wp.com
 i1.wp.com
-i1.wp.com
-i2.wp.com
-i2.wp.com
 i2.wp.com
 ia1.comscore.com
 ia2.comscore.com
@@ -2042,7 +2017,6 @@ img.youtube.com
 imgur.com
 imqvs2qippm65n6g2qtyyqimyeggervnt64cyzl2x2fduo6g.tb6aoen5rgxsd3vrsm5x6257pe43ez5jpbpqs7mnhfd2gwpm.6p43cx5jyukului62krjkjbuw27drk43s2wizh2rqbzqnoix.rr4lyf2ny4j5pit663giazaneive3wnxoi67oietaezfarxq.nvkux5go6wfzevmi.er.spo.spotify.com
 in-odc.samsungapps.com
-in-odc.samsungapps.com
 in-tpl.adiquity.com
 in.appcenter.ms
 in.getclicky.com
@@ -2063,8 +2037,6 @@ j.admob.com
 jep-asset.akamaized.net
 jethrodata.qlik.com
 jiocinemaweb.cdn.jio.com
-jiocinemaweb.cdn.jio.com
-jiogames.akamaized.net
 jiogames.akamaized.net
 jm.moatads.com
 jp.admob.com
@@ -2098,7 +2070,6 @@ links.spotify.com
 linsey.lon2.spotify.com
 live.adyen.com
 ln.doubleclick.net
-location.services.mozilla.com
 location.services.mozilla.com
 location.wynk.in
 log.agileadnetwork.com
@@ -2753,7 +2724,6 @@ postbuy.comscore.com
 premium-code-admin.lon.spotify.com
 prg03s02-in-f110.1e100.net
 prg03s02-in-f99.1e100.net
-privatestats.whatsapp.net
 privatestats.whatsapp.net
 proclarity.comscore.com
 prod.b.ssl.us-eu.fastlylb.net
@@ -3448,7 +3418,6 @@ safebrowsing.googleapis.com
 sap-testing.spotify.com
 sap.spotify.com
 sb.scorecardresearch.com
-sb.scorecardresearch.com
 sb.voicefive.com
 sc1.admob.com
 sc9.admob.com
@@ -3471,7 +3440,6 @@ send-assets.s3-ap.southeast-1.amazonaws.com
 send.zomato.com
 sentry.zomans.com
 server-54-230-216-203.mrs50.r.cloudfront.net
-serverg.apxor.com
 serverg.apxor.com
 settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com
 settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
@@ -3563,7 +3531,6 @@ tic1.vip.sc9.admob.com
 tigger-citadel.touchtype-fluency.com
 time.android.com
 todosupport.helpshift.com
-tpc.googlesyndication.com
 tpc.googlesyndication.com
 tpc.googlesyndication.com.proxy.c9w.net
 tpcnc.googlesyndication.com
@@ -4075,7 +4042,6 @@ www.google.ru
 www.googleadservices.com
 www.googleapis.com
 www.googletagservices.com
-www.googletagservices.com
 www.gstatic.com
 www.hubtalk.com
 www.intercom.io
@@ -4084,7 +4050,6 @@ www.mixpanel.com
 www.moatads.com
 www.mycomscore.net
 www.paypalobjects.com
-www.powr.io
 www.powr.io
 www.r1---sn-buq-njal.c.2mdn.net
 www.r5---sn-buq-njal.c.2mdn.net
@@ -4112,7 +4077,6 @@ yandex.ru
 yj.moatads.com
 youtubei.googleapis.com
 yt.moatads.com
-yt3.ggpht.com
 yt3.ggpht.com
 yts.moatads.com
 z.admob.com
