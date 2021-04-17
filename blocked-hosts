@@ -1,4 +1,6 @@
-
+(^a([0-9]+)+avoddashs3ww\-a\.akamaihd\.net)
+(^gae2)\-+(accesspoint)\-([a-z]+)\-+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+\.ap\.spotify\.com
+(^m)\-+([0-9]+)+s3\.ll\.dash\.row\.aiv\-cdn\.net
 (^r)+([0-9])\-+([a-z]+)\-([a-z,a-z,0-9]+\.([a-z])+\.([a-z])+)
 0.cn.pool.ntp.org
 0.fls.doubleclick.net
@@ -406,6 +408,7 @@ a1599.g.akamai.net
 a1767.g.akamai.net
 a176avoddashs3ww-a.akamaihd.net
 a177avoddashs3ww-a.akamaihd.net
+a17avoddashs3ww-a.akamaihd.net
 a1843.g.akamai.net
 a19.g.akamai.net
 a2-19-66-11.deploy.static.akamaitechnologies.com
@@ -426,6 +429,7 @@ a50.g2.akamai.net
 a6.video-ak.cdn.spotify.com
 a7.video-ak.cdn.spotify.com
 a8.video-ak.cdn.spotify.com
+a82avoddashs3ww-a.akamaihd.net
 a88-221-144-210.deploy.static.akamaitechnologies.com
 a88avoddashs3ww-a.akamaihd.net
 a9.video-ak.cdn.spotify.com
@@ -683,6 +687,7 @@ apx.moatads.com
 ar.voicefive.com
 artifact.edgecastcdn.net
 aser.comscore.com
+ash-apne2.mgmt.aibixby.com
 ash-spclient.spotify.com
 ash2-accesspoint-a1.ap.spotify.com
 ash2-accesspoint-a1.ash2.spotify.com
@@ -1012,6 +1017,7 @@ beta.datasharing.spotify.com
 beta.spotify.map.fastlylb.net
 beta.tune.com
 bf.video-ak.cdn.spotify.com
+bixby-client.aibixby.com
 blocklists.settings.services.mozilla.com
 blokada.org
 bo.jumptap.com
@@ -1045,6 +1051,7 @@ c-evt.moatads.com
 c.2mdn.net
 c.admob.com
 c.in.webengage.com
+c.webengage.com
 c0.video-ak.cdn.spotify.com
 c0.wp.com
 c01.smaato.net
@@ -1121,6 +1128,7 @@ c9.video-ak.cdn.spotify.com
 ca.video-ak.cdn.spotify.com
 canvaspl-a.akamaihd.net
 capi.hungama.com
+capi.samsungcloud.com
 cb.video-ak.cdn.spotify.com
 cbjpeg.stream.highwebmedia.com
 cc.video-ak.cdn.spotify.com
@@ -1538,6 +1546,7 @@ fd.video-ak.cdn.spotify.com
 fe.video-ak.cdn.spotify.com
 fea.assettype.com
 feed.ff.avast.com
+feed.inaaj.org
 feedads.g.doubleclick.net
 feeds.smartspends.com
 ff.video-ak.cdn.spotify.com
@@ -2492,6 +2501,7 @@ ma.tune.com
 mads.amazon-adsystem.com
 mail2.comscore.com
 malena.lon2.spotify.com
+market-apne2.mgmt.aibixby.com
 marketer.comscore.com
 mas-log.paas.paytm.com
 mdh-pa.googleadapis.com
@@ -2600,6 +2610,7 @@ media97.fastclick.net
 media98.fastclick.net
 media99.fastclick.net
 message-editor.scdn.co
+messages.google.com
 metadatafeedback.spotify.com
 metok-ccc.intl.xiaomi.com
 metrics.admob.com
