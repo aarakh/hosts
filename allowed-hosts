@@ -21,6 +21,7 @@ api.amazon.in
 api.phonepe.com
 api.piggy.co.in
 api.zomato.com
+apis.google.com
 apk.appbazaar.com
 app-03.engage.jio.com
 app.slack.com
@@ -41,9 +42,11 @@ b2bapi.zee5.com
 bifrost-api.hotstar.com
 bing.com
 bixby-client.aibixby.com
+blogs.oracle.com
 blokada.org
 calendly.com
 cdn.cloud.altbalaji.com
+cdnjs.cloudflare.com
 chat.whatsapp.com
 clients4.google.com
 clients6.google.com
@@ -62,6 +65,8 @@ d2r1yp2w7bby2u.cloudfront.net
 dev.to
 digi-api.airtel.in
 disc.swiggy.com
+discord.com
+discordapp.com
 dl.google.com
 docs.google.com
 docs.microsoft.com
@@ -103,6 +108,7 @@ instagram.com
 ipl.service.expressplay.com
 ipv4.tracker.harry.lu
 jenson.api.swiftkey.com
+kre.kayako.net
 lewdzone.com
 lh3.googleusercontent.com
 libraries.lazypay.in
@@ -141,6 +147,7 @@ otag.h2os.com
 outlook.live.com
 outlook.office365.com
 packagecloud.io
+pdfcoffee.com
 pg-transport.phonepe.com
 piecash.readthedocs.org
 pimylifeup.com
@@ -163,6 +170,7 @@ res.cloudinary.com
 retracker.lanta-net.ru
 s3.ap-south-1.amazonaws.com
 s3.ap-southeast-1.amazonaws.com
+samsappsbn.vo.llnwd.net
 search5-noneu.truecaller.com
 seppzrgo-android.mobile-sdk-api.intercom.io
 services.addons.mozilla.org
@@ -232,3 +240,4 @@ www.youtube.com
 zapi.airtel.in
 zee5vod.akamaized.net
 zomato-data.s3.ap-southeast-1.amazonaws.com
+zomato.com
