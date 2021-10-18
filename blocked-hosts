@@ -404,6 +404,7 @@
 9d.video-ak.cdn.spotify.com
 9e.video-ak.cdn.spotify.com
 9f.video-ak.cdn.spotify.com
+a-0001.a-afdentry.net.trafficmanager.net
 a-0003.a-msedge.net
 a-0016.a-msedge.net
 a.adk2x.com
@@ -1209,6 +1210,7 @@ ce.video-ak.cdn.spotify.com
 cer.comscore.com
 cf.video-ak.cdn.spotify.com
 cgi.connect.qq.com
+changelogs.ubuntu.com
 chat.signal.org
 chaturbate.com
 chatw-12.stream.highwebmedia.com
@@ -1264,6 +1266,7 @@ config.edge.skype.com
 config.samqaicongen.com
 configuration.ma.tune.com
 connect.facebook.net
+connectivity-check.ubuntu.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 contact-upload4-noneu.truecaller.com
@@ -1467,6 +1470,7 @@ dq1dnt4af4eyy.cloudfront.net
 ds.serving-sys.com
 ds1.edgecastcdn.net
 ds2.edgecastcdn.net
+dspmfin.dspim.com
 dsvn.edgecastcdn.net
 dualstack.spotify.map.fastly.net
 duckduckgo.com
@@ -2624,8 +2628,10 @@ marketer.comscore.com
 mas-log.paas.paytm.com
 mas-log.pass.apytm.com
 maxcdn.bootstrapcdn.com
+mcusercontent.com
 mdh-pa.googleadapis.com
 mdh-pa.googleapis.com
+mdm.oneplus.net
 media-match.com
 media-router-flurry7.prod.media.wg1.b.yahoo.com
 media.admob.com
@@ -2729,6 +2735,7 @@ media96.fastclick.net
 media97.fastclick.net
 media98.fastclick.net
 media99.fastclick.net
+mercury.akamaized.net
 message-editor.scdn.co
 messages.google.com
 metadata.google.internal
@@ -2879,6 +2886,7 @@ p1.vip.sc9.admob.com
 p2.shared.global.fastly.net
 p3.pstatp.com
 p34-keyvalueservice.icloud.com
+p8wykv5a-android.mobile-messenger.intercom.com
 pagead-googlehosted.l.google.com
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
@@ -3603,6 +3611,7 @@ resolver.msg.global.xiaomi.net
 rewards.lazypay.in
 rmd.admob.com
 rngfoundation.com
+router.oneplus.com
 rp-lb-766892831.us-east-1.elb.amazonaws.com
 runa.pushmessage.samsung.com
 s-jsonp.moatads.com
@@ -3773,6 +3782,7 @@ tags.inaaj.org
 tags.tiqcdn.com
 tap1.vip.sc9.admob.com
 tc-inaaj.web.app
+telemetry-ingestion.us-sanjose-1.oraclecloud.com
 teradata.qlik.com
 terraform-modules-test.intercom.io
 ters.eu-west-1.aiv-delivery.net
@@ -3821,7 +3831,6 @@ ulink.adjust.com
 update.moatads.com
 updates.signal.org
 updates.tune.com
-upgrade.scdn.co
 upgrade.scdn.com
 upgrade.spotify.com
 upload.wikimedia.org
@@ -4350,6 +4359,7 @@ www.mycomscore.net
 www.myinsuranceclub.com
 www.netnanny.com
 www.paypalobjects.com
+www.pinterest.com
 www.powr.io
 www.qwant.com
 www.r1---sn-buq-njal.c.2mdn.net
