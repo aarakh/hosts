@@ -1,13 +1,4 @@
-(^a([0-9]+)+avoddashs3ww\-a\.akamaihd\.net)
-(^gae2)\-+(accesspoint)\-([a-z]+)\-+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+\.ap\.spotify\.com
-(^m)\-+([0-9]+)+s3\.ll\.dash\.row\.aiv\-cdn\.net
-(^r)+([0-9])\-+([a-z]+)\-([a-z,a-z,0-9]+\.([a-z])+\.([a-z])+)
-^[a-z]+-central-ase1.samsungmdec.com
-^a[0-1000]avoddashs3ww-a.akamaihd.net
-^alt[1-8]-mtalk.google.com
-^e[0-40].whatsapp.net
-^e[0-7].whatsapp.net
-^shard-[0-9].s3-bom-ww.cf.dash.row.aiv-cdn.net
+# Note this list blocks most of Google Websites so android will complain about not conencted to internet
 0.cn.pool.ntp.org
 0.fls.doubleclick.net
 00.video-ak.cdn.spotify.com
