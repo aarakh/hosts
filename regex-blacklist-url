@@ -14,7 +14,34 @@
 # https://raw.githubusercontent.com/mmotti/pihole-regex/master/whitelist.list
 
 # Regular Expressions:
-https://perflyst.github.io/PiHoleBlocklist/regex.list
+# https://perflyst.github.io/PiHoleBlocklist/regex.list
+# Title: Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension
+# Version: 02October2021v1
+
+# LG
+(^|\.)ibs\.lgappstv\.com
+(^|\.)lgsmartad\.com
+(^|\.)smartshare\.lgtvsdp\.com
+(^|\.)rdx2\.lgtvsdp\.com
+^[a-z]{7,15}$
+
+# Samsung
+(^|\.)giraffic\.com$
+(^|\.)internetat\.tv$
+(^|\.)pavv\.co\.kr$
+# (^|\.)samsungcloudcdn\.com$ # prevents updates
+# (^|\.)samsungcloudsolution\.com$ # prevents internet connection
+(^|\.)samsungcloudsolution\.net$
+(^|\.)samsungelectronics\.com$
+# (^|\.)samsungotn\.net$ # prevents updates
+(^|\.)samsungrm\.net$
+
+# Vizio
+(\.|^)tvinteractive\.tv$
+
+# Other
+# (^|\.)myhomescreen\.tv$ # can produce false positives, rather block individual domains
+^api\..*\.hismarttv\.com$
 
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
