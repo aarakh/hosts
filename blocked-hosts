@@ -4236,7 +4236,7 @@ wpc.7b8c.edgecastcdn.net
 wpc.8093.edgecastcdn.net
 wpc.8156.edgecastcdn.net
 wpc.8773.edgecastcdn.net
-wpc.87e5.edgecastcdn.net
+#wpc.87e5.edgecastcdn.net
 wpc.8c74.edgecastcdn.net
 wpc.8d23.edgecastcdn.net
 wpc.8f13.edgecastcdn.net
@@ -4299,11 +4299,11 @@ wpc.fa83.edgecastcdn.net
 ws-mt1.pusher.com
 wsdk-files.in.webengage.com
 wsp.43a2.edgecastcdn.net
-ww13.smartadserver.com
-ww234.smartadserver.com
-ww264.smartadserver.com
-ww362.smartadserver.com
-ww55.smartadserver.com
+#ww13.smartadserver.com
+#ww234.smartadserver.com
+#ww264.smartadserver.com
+#ww362.smartadserver.com
+#ww55.smartadserver.com
 www.admob.com
 www.admob.com.akadns.net
 www.argentinaprivate.com
