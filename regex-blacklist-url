@@ -68,3 +68,6 @@
 ^e[0-40].whatsapp.net
 ^e[0-7].whatsapp.net
 ^shard-[0-9].s3-bom-ww.cf.dash.row.aiv-cdn.net
+^e[0-9].video-ak.cdn.spotify.com
+^f[0-9].video-ak.cdn.spotify.com
+^fra[1-500].ib.adnxs.com
