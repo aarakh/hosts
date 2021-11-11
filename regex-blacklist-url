@@ -71,3 +71,5 @@
 ^e[0-9].video-ak.cdn.spotify.com
 ^f[0-9].video-ak.cdn.spotify.com
 ^fra[1-500].ib.adnxs.com
+^wpc.([a-z,0-9]+)+.edgecastcdn.net
+ww([0-9]+).smartadserver.com
