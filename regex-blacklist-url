@@ -43,7 +43,7 @@
 # (^|\.)myhomescreen\.tv$ # can produce false positives, rather block individual domains
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
-^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
+# ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-] # prevents ubuntu updates
 ^adim(age|g)s?[0-9]*[_.-]
 ^adtrack(er|ing)?[0-9]*[_.-]
 ^advert(s|is(ing|ements?))?[0-9]*[_.-]
@@ -58,10 +58,10 @@
 ^stat(s|istics)?[0-9]*[_.-]
 
 # My own custom filters
-(^a([0-9]+)+avoddashs3ww\-a\.akamaihd\.net)$
-(^gae2)\-+(accesspoint)\-([a-z]+)\-+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+\.ap\.spotify\.com$
-(^m)\-+([0-9]+)+s3\.ll\.dash\.row\.aiv\-cdn\.net$
-(^r)+([0-9])\-+([a-z]+)\-([a-z,a-z,0-9]+\.([a-z])+\.([a-z])+)$
+(^a([0-9]+)+avoddashs3ww-a\.akamaihd\.net)$
+((^gae2)|(^gew1))-+(accesspoint)-([a-z]+)-+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+\.ap\.spotify\.com$
+(^m)-+([0-9]+)+s3\.ll\.dash\.row((\.)|(-))aiv-cdn\.net$
+(^r)+([0-9])-+([a-z]+)-([a-z,a-z,0-9]+\.([a-z])+\.([a-z])+)$
 ^((audio-[a-z]{2}-[a-z,0-9]+((-)|(\.))(([a-z]+)|([0-9]+))\.[a-z]+)$|(audio-[a-z]{2}-[a-z,0-9]+((-)|(\.))(([a-z]+)|([0-9]+))\.[a-z]+\.net)|(audio-[a-z]{2}-[a-z]{3}-\d+\.[a-z]+\.[a-z]+))$
 ^((lon)|(ash))\d+-accesspoint-[a-z,0-9]+\.[a-z,0-9]+\.spotify\.com$
 ^[0-9]+\.fls\.doubleclick\.net$
@@ -98,3 +98,7 @@
 ^o-o((---)|(\.))preferred((---)|(\.))[a-z]+-(([a-z,0-9]+)|([a-z,0-9]+-[a-z,0-9]+))((---)|(\.))[a-z,0-9]+((---)|(\.))[a-z,0-9]+\.c\.((googlesyndication)|(2mdn))\.((com)|(net))$
 ^((sjc)|(sto))[0-9]-[a-z,0-9]+-[a-z,0-9]+\.((sjc)|(sto))(([0-9])|(\.))((spotify)|(\.spotify))\.((com)|(net))$
 ^[a-z,0-9]+\.((glpals)|(admob)|(moatads)|(ggpht)|(dynamicnetworkservices))\.((com)|(net))$
+^((ash)|(audio))((\d+)|())-[a-z]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((spotify)|(akamaized)|(edgesuite))\.((com)|(net))$
+^ad((mob)|([a-z,0-9]+))\.[a-z]{2,4}$
+^[a-z,0-9]+((-)|(\.))[a-z,0-9]+\.[a-z,0-9]+\.((edgecastcdn)|(highwebmedia)|(admob)|(doubleclick)|(spotify)|(mozilla)|(fastly)|(xiaomi)|(miui)|(thunderbird)|(microsoft)|(bitgravity)|(googleapis)|(netflix))\.((com)|(net)|(org))$
+^(lon)\d-[a-z]+-[a-z,0-9]+\.(lon)\d\.spotify\.com$
