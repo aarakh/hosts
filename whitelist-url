@@ -52,6 +52,8 @@ cn-dc1.uber.com
 cn-phx2.cfe.uber.com
 cognito-identity.us-east-1.amazonaws.com
 cognito-indentity.us-east-1.amazonaws.com
+colab.research.google.com
+connectivitycheck.gstatic.com
 content.samsungknowledge.com
 coppersurfer.tk
 csmu.enstage-sas.com
@@ -59,6 +61,7 @@ d1a3f4spazzrp4.cloudfront.net
 d1w2poirtb3as9.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 dev.to
+developer.android.com
 digi-api.airtel.in
 disc.swiggy.com
 discord.com
@@ -210,6 +213,7 @@ www.paypalobjects.com
 www.reddit.com
 www.sbicard.com
 www.youtube.com
+www3.l.google.com
 zapi.airtel.in
 zee5vod.akamaized.net
 zomato-data.s3.ap-southeast-1.amazonaws.com
