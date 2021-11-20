@@ -49,6 +49,8 @@ chat.whatsapp.com
 clients4.google.com
 clients6.google.com
 cn-dc1.uber.com
+cn-dca1.cfe.uber.com	
+cn-geo1.uber.com	
 cn-phx2.cfe.uber.com
 cognito-identity.us-east-1.amazonaws.com
 cognito-indentity.us-east-1.amazonaws.com
@@ -94,6 +96,7 @@ google.com
 googlehosted.l.googleusercontent.com
 goolag.storage
 i.scdn.co
+icm.aexp-static.com
 ii-static.imgskk.com
 images-na.ssl-images-amazon.com
 imap-mail.outlook.com
@@ -163,6 +166,7 @@ s3.ap-south-1.amazonaws.com
 s3.ap-southeast-1.amazonaws.com
 samsappsbn.vo.llnwd.net
 search5-noneu.truecaller.com
+securegw.paytm.in	
 seppzrgo-android.mobile-sdk-api.intercom.io
 services.addons.mozilla.org
 sit-r2-account.tatadigital.com
@@ -194,8 +198,10 @@ web.whatsapp.com
 webcache.googleusercontent.com
 wv-keyos-aps1.licensekeyserver.com
 www-livemint-com.cdn.ampproject.org
+www.aexp-static.com	
 www.airtel.in
 www.amazon.com
+www.americanexpress.com
 www.audible.in
 www.bbassets.com
 www.bing.com
