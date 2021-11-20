@@ -1,6 +1,7 @@
 # This Whitelist is highly personalized
 1377x.to
 28bbf0a3decf6d1165032bfd835d6e1844c5d44d.cws.conviva.com
+4.0p14z000000k9ebcaa.00d3h0000066clyeaq.gslb.siteforce.com
 561fmzr2.r.us-east-1.awstrack.me
 a.nel.cloudflare.com
 ab3cs84k69ya.eu.api.amazonvideo.com
@@ -74,6 +75,8 @@ docs.microsoft.com
 drive-thirdparty.googleusercontent.com
 drive.google.com
 dyrrggeck87jc.cloudfront.net
+e15322.a.akamaiedge.net
+e8119.a.akamaiedge.net
 elibom.digitallocker.gov.in
 eu-auth2.samsungosp.com
 events.uber.com
@@ -95,9 +98,11 @@ go.oracle.com
 google.com
 googlehosted.l.googleusercontent.com
 goolag.storage
+help.audible.in
 i.scdn.co
 icm.aexp-static.com
 ii-static.imgskk.com
+images-eu.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 imap-mail.outlook.com
 img.samsungapps.com
@@ -119,6 +124,7 @@ login5.spotify.com
 lt.camsonline.com
 lumberjack.razorpay.com
 m.lazypay.in
+m.media-amazon.com
 maharashtratimes.com
 mail.yahoo.com
 mailfence.com
@@ -203,6 +209,7 @@ www-livemint-com.cdn.ampproject.org
 www.aexp-static.com
 www.airtel.in
 www.amazon.com
+www.amazon.in
 www.americanexpress.com
 www.audible.in
 www.bbassets.com
