@@ -49,8 +49,8 @@ chat.whatsapp.com
 clients4.google.com
 clients6.google.com
 cn-dc1.uber.com
-cn-dca1.cfe.uber.com	
-cn-geo1.uber.com	
+cn-dca1.cfe.uber.com
+cn-geo1.uber.com
 cn-phx2.cfe.uber.com
 cognito-identity.us-east-1.amazonaws.com
 cognito-indentity.us-east-1.amazonaws.com
@@ -138,6 +138,7 @@ msh.amazon.co.uk
 myairtelapp.bsbportal.com
 myjio-rl-prod.jioconnect.com
 occ-0-2085-2164.1.nflxso.net
+ocsp.entrust.net
 openwrt.org
 otag.h2os.com
 outlook.live.com
@@ -166,7 +167,7 @@ s3.ap-south-1.amazonaws.com
 s3.ap-southeast-1.amazonaws.com
 samsappsbn.vo.llnwd.net
 search5-noneu.truecaller.com
-securegw.paytm.in	
+securegw.paytm.in
 seppzrgo-android.mobile-sdk-api.intercom.io
 services.addons.mozilla.org
 sit-r2-account.tatadigital.com
@@ -176,6 +177,7 @@ spclient.wg.spotify.com
 ssl.gstatic.com
 stackoverflow.com
 static.cloudflareinsights.com
+static.incometax.gov.in
 static.whatsapp.net
 storage.googleapis.com
 storage.live.com
@@ -198,7 +200,7 @@ web.whatsapp.com
 webcache.googleusercontent.com
 wv-keyos-aps1.licensekeyserver.com
 www-livemint-com.cdn.ampproject.org
-www.aexp-static.com	
+www.aexp-static.com
 www.airtel.in
 www.amazon.com
 www.americanexpress.com
@@ -209,6 +211,7 @@ www.bloomberg.com
 www.facebook.com
 www.flipkart.com
 www.google.com
+www.incometax.gov.in
 www.instagram.com
 www.linkedin.com
 www.linuxjournal.com
