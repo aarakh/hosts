@@ -5,7 +5,7 @@ hosts -- acts as blacklist, this same was referenced in adlists-url at end
 
 whitelist-url -- acts as whitelist
 
-blacklist-url -- acts as whitelist (not in use)
+blacklist-url -- acts as blacklist (not in use)
 
 adlists-url -- consists of urls of other well-known block lists + my own personalized blocklist as in last line
 
