@@ -57,6 +57,19 @@
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
 
+# Google and YouTube
+# Special Thanks to https://github.com/nickspaargaren/no-google
+^r[0123456789]+((-{3})|(.))sn-.{8}.googlevideo.com$
+(..|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|..+))) 
+(..|^)g(gpht|mail|static|v(t[12])?)($|..+) 
+(..|^)chrom(e(experiments)?|ium)($|..+) 
+(..|^)ampproject($|..+) 
+(..|^)doubleclick($|..+) 
+(..|^)firebaseio($|..+) 
+(..|^)googlevideo($|..+) 
+(..|^)waze($|..+) 
+(.*.|^)y(outube|timg)($|..+)
+
 # My own custom filters
 (^a([0-9]+)+avoddashs3ww-a\.akamaihd\.net)$
 ((^gae2)|(^gew1))-+(accesspoint)-([a-z]+)-+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+\.ap\.spotify\.com$
@@ -103,3 +116,4 @@
 #Below Regex blocks almost all CDN based websites
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((akamaihd)|(google)|(intercom)|(googleapis)|(oojoovae)|(admob)|(mojiva)|(akamaiedge))\.((com)|(net)|(io)|(in)|(org))$
 ^[a-z,0-9]+((-)|(\.))[a-z,0-9]+\.[a-z,0-9]+\.((edgecastcdn)|(highwebmedia)|(admob)|(doubleclick)|(spotify)|(mozilla)|(fastly)|(xiaomi)|(miui)|(thunderbird)|(microsoft)|(bitgravity)|(googleapis)|(netflix))\.((com)|(net)|(org))$
+   
