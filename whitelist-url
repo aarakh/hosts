@@ -7,10 +7,10 @@ a.nel.cloudflare.com
 ab3cs84k69ya.eu.api.amazonvideo.com
 account-asia-south1.truecaller.com
 account.microsoft.com
+adaway.org
 addons.cdn.mozilla.net
 addons.mozilla.org
 adguard.com
-adaway.org
 amazon.in
 android.clients.google.com
 android.prod.cloud.netflix.com
@@ -37,6 +37,7 @@ attachment.outlook.live.net
 audible.sc.omtrdc.net
 audio-sp-sin-13.spotifycdn.net
 audio4-fa.scdn.co
+av.sc.com
 awscloudfront.appbazaar.com
 b2bapi.zee5.com
 bifrost-api.hotstar.com
@@ -59,6 +60,9 @@ cognito-indentity.us-east-1.amazonaws.com
 colab.research.google.com
 connectivitycheck.gstatic.com
 content.samsungknowledge.com
+contents1.00110.citi.com
+contents2.00110.citi.com
+contents3.00110.citi.com
 coppersurfer.tk
 csmu.enstage-sas.com
 d1a3f4spazzrp4.cloudfront.net
@@ -150,6 +154,7 @@ myairtelapp.bsbportal.com
 myjio-rl-prod.jioconnect.com
 occ-0-2085-2164.1.nflxso.net
 ocsp.entrust.net
+online.citi.com
 openwrt.org
 otag.h2os.com
 outlook.live.com
@@ -226,8 +231,12 @@ www.audible.in
 www.bbassets.com
 www.bing.com
 www.bloomberg.com
+www.citi.com
+www.citibank.co.in
+www.citibank.com
 www.facebook.com
 www.flipkart.com
+www.geeksforgeeks.org
 www.google.com
 www.incometax.gov.in
 www.instagram.com
@@ -235,11 +244,13 @@ www.linkedin.com
 www.linuxjournal.com
 www.makeuseof.com
 www.msn.com
+www.online.citibank.co.in
 www.outlook.com
 www.paypalobjects.com
 www.reddit.com
 www.samsung.com
 www.sbicard.com
+www.sc.com
 www.youtube.com
 www3.l.google.com
 zapi.airtel.in
