@@ -60,14 +60,14 @@
 # Google and YouTube
 # Special Thanks to https://github.com/nickspaargaren/no-google
 ^r[0123456789]+((-{3})|(.))sn-.{8}.googlevideo.com$
-(..|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|..+))) 
-(..|^)g(gpht|mail|static|v(t[12])?)($|..+) 
-(..|^)chrom(e(experiments)?|ium)($|..+) 
-(..|^)ampproject($|..+) 
-(..|^)doubleclick($|..+) 
-(..|^)firebaseio($|..+) 
-(..|^)googlevideo($|..+) 
-(..|^)waze($|..+) 
+(..|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|..+)))
+(..|^)g(gpht|mail|static|v(t[12])?)($|..+)
+(..|^)chrom(e(experiments)?|ium)($|..+)
+(..|^)ampproject($|..+)
+(..|^)doubleclick($|..+)
+(..|^)firebaseio($|..+)
+(..|^)googlevideo($|..+)
+(..|^)waze($|..+)
 (.*.|^)y(outube|timg)($|..+)
 
 # My own custom filters
