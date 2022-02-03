@@ -9,6 +9,7 @@
 3ad.doubleclick.net
 4.0p14z000000k9ebcaa.00d3h0000066clyeaq.gslb.siteforce.com
 43ecb0d997911617b1332add5539afbf.api.appsee.com
+496gf0lz.r.ap-south-1.awstrack.me
 a-0001.a-afdentry.net.trafficmanager.net
 a-0003.a-msedge.net
 a-0016.a-msedge.net
@@ -103,6 +104,7 @@ api.pushamplify.com
 api.samsungcloud.com
 api.sec.miui.com
 api.smartthings.com
+api.status.io
 api.weathercn.com
 api.zwizzarmyknife.com
 api2.branch.io
@@ -188,6 +190,7 @@ cdn-api.co-vin.in
 cdn.adnxs.com
 cdn.ampproject.org
 cdn.anpproject.org
+cdn.dwhitelabel.com
 cdn.fastclick.net 
 cdn.fwupd.org
 cdn.ghostery.com
@@ -196,6 +199,7 @@ cdn.inaaj.org
 cdn.onlymega.com
 cdn.ravenjs.com
 cdn.razorpay.com
+cdn.sstatic.net
 cdn.techgenix.com
 cdn.vuukle.com
 cdn2.ghostery.com
@@ -293,6 +297,7 @@ d2o9ozfswytaqz.cloudfront.net
 d2qv82yc3u9tc7.cloudfront.net
 d3n85rao6710xg.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
+da7otfopzteok.cloudfront.net
 dac.forkcdn.com
 dacdn.visualwebsiteoptimizer.com
 daisy.ubuntu.com
@@ -301,6 +306,7 @@ darkreader.org
 datasharing.spotify.com
 dcape-na.amazon.com
 dcg.microsoft.com
+dd-cdn.multiscreensite.com
 dealctr.com
 dealer.spotify.com
 decide.mixpanel.com
@@ -332,6 +338,7 @@ doubleclick.com
 doubleclick.de
 doubleclick.net
 download.intsig.net
+dp-cdn.multiscreensite.com
 dq1dnt4af4eyy.cloudfront.net
 ds.serving-sys.com
 ds1.edgecastcdn.net
@@ -400,6 +407,7 @@ ftp.fau.de
 g.whatsapp.net
 gads.pubmatic.com
 gads22000.pubmatic.com
+gateway.prod.eu-west-1.forester.a2z.com
 ge-0-0-1-edge1.sc9.admob.com
 ge-0-0-43-crs1.sc9.admob.com
 give.thunderbird.net
@@ -486,6 +494,7 @@ in.pinterest.com
 in.wzrkt.com
 in1-spiky.wzrkt.com
 inapps.appsflyer.com
+index-of.co.uk
 inferno.demonoid.pw
 instant.page
 integration.torcai.com
@@ -498,6 +507,7 @@ inwal.s3.amazonaws.com
 ipecho.net
 ipinfo.io
 ipv4only.arpa
+irp-cdn.multiscreensite.com
 itunes.apple.com
 iv.doubleclick.net
 jep-asset.akamaized.net
@@ -527,6 +537,8 @@ lh6.googleusercontent.com
 link-reports-noneu.truecaller.com
 links.iterable.com
 links.spotify.com
+lirp-cdn.multiscreensite.com
+lirp.cdn-website.com
 live.adyen.com
 live.thunderbird.net
 ln.doubleclick.net
@@ -627,6 +639,7 @@ ops-prod.us-west-2.k8s.ops.tune.com
 optimize.doubleclick.net
 ord.comscore.com
 outlook.office365.com
+p-static.bing.trafficmanager.net
 p0.ssl.qhimg.com
 p3.pstatp.com
 p34-keyvalueservice.icloud.com
@@ -670,6 +683,7 @@ prod.spotify-heads.map.fastlylb.net
 prod.spotify.map.fastlylb.net
 prod.www-fastly-com.map.fastly.net
 prod8.qlik.com
+production-wordpress-blog.s3.ap-south-1.amazonaws.com
 promo.spotify.com
 ps.pndsn.com
 pub-net-srx-int-testing.spotify.com
@@ -800,7 +814,9 @@ ssl.gstatic.com
 stage.tune.com
 stardoll.com
 start.thunderbird.net
+static-cdn.multiscreensite.com
 static.2mdn.net
+static.cdn-website.com
 static.smartspends.com
 static.whatsapp.net
 stats.wp.com
@@ -835,6 +851,7 @@ ters.eu-west-1.aiv-delivery.net
 textsecure-service.whispersystems.org
 thehindupaper.xyz
 thisis-images.scdn.co
+thunderbird-settings.thunderbird.net
 tic.googlesyndication.com
 tigger-citadel.touchtype-fluency.com
 time.android.com
@@ -852,6 +869,7 @@ track.leanlab.co
 tracker.cypherpunks.ru
 tracker.foreverpirates.co
 tracker.vanitycore.co
+trackero.mgageindia.com
 tracking.admobsphere.com
 tracking.india.miui.com
 tribpubdfp745347008913.s.moatpixel.com
@@ -930,6 +948,7 @@ www.google.ru
 www.googleadservices.com
 www.googleapis.com
 www.googletagservices.com
+www.gravatar.com
 www.gstatic.com
 www.hubtalk.com
 www.imtranslator.net
@@ -937,11 +956,13 @@ www.intercom.io
 www.internalpointers.com
 www.internationalsexguide.nl
 www.internet.apps.samsung.com
+www.interview-blog.com
 www.iphoneipapers.com
 www.labnol.org
 www.lazysystemadmin.com
 www.linkedin.com
 www.lokmatnews.in
+www.mikearthur.net
 www.mixpanel.com
 www.mycomscore.net
 www.myinsuranceclub.com
