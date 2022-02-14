@@ -142,4 +142,9 @@ https://raw.githubusercontent.com/Amazefcc233/no-ads-hosts/master/hosts
 https://raw.githubusercontent.com/easonjim/blackhosts/master/hosts
 https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLiteTest-dnsmasq
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&startdate%5Bday%5D=&startdate%5Bmonth%5D=&startdate%5Byear%5D=&mimetype=plaintext
+https://publicsuffix.org/list/public_suffix_list.dat
+https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 https://github.com/aarakh/hosts/raw/master/hosts
