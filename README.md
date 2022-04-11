@@ -3,7 +3,7 @@ My Host Files for AdBlock,PiHole
 
 hosts -- acts as blacklist, this same was referenced in adlists-url at end
 
-whitelist-url -- acts as whitelist
+whitelist-url -- acts as whitelist now maintained in private repo
 
 blacklist-url -- acts as blacklist (not in use)
 
