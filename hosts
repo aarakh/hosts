@@ -1,5 +1,6 @@
 # Note this list blocks most of Google Websites so android will complain about not conencted to internet
 0.cn.pool.ntp.org
+0d.kebhana.mx
 104.199.64.104
 104.199.65.206
 172.217.20.98
@@ -9,6 +10,7 @@
 3ad.doubleclick.net
 4.0p14z000000k9ebcaa.00d3h0000066clyeaq.gslb.siteforce.com
 43ecb0d997911617b1332add5539afbf.api.appsee.com
+47.ip-51-68-199.eu
 496gf0lz.r.ap-south-1.awstrack.me
 9.rarbg.to
 a-0001.a-afdentry.net.trafficmanager.net
@@ -138,6 +140,7 @@ ash-apne2.mgmt.aibixby.com
 asia.pool.ntp.org
 ask.fedoraproject.org
 asmw.amazon.in
+asnet.pw
 assets.adobedtm.com
 assets.airtel.in
 assets.calm.com
@@ -174,6 +177,8 @@ bounceexchange.com
 bs.serving-sys.com
 bsams.eyeblaster.akadns.net
 bstatistics.com
+bt.acg.gg
+bt.xxx-tracker.com
 btcpay.blocka.net
 buy-link-001.lon.spotify.com
 c-evt.moatads.com
@@ -319,6 +324,7 @@ developer.thunderbird.net
 developers.intercom.io
 device-metrics-us.amazon.com
 dht.biglybt.com
+dht.transmissionbt.com
 diagmon-serviceapi.samsungdm.com
 diagmon.serviceapi.samsungdm.com
 digianalytics.airtel.in
@@ -514,6 +520,8 @@ inwal.s3.amazonaws.com
 ipecho.net
 ipinfo.io
 ipv4only.arpa
+ipv6.open-internet.nl
+ipv6.tracker.harry.lu
 irp-cdn.multiscreensite.com
 itunes.apple.com
 iv.doubleclick.net
@@ -600,7 +608,6 @@ moatads.com
 moatads.com.edgekey.net
 mobile-collector.newrelic.com
 mobile-content.uber.com
-mobile-content.uber.com
 mobile-sdk-api.intercom.io
 mobile.launchdarkly.com
 mobileapi.flipkart.com
@@ -647,6 +654,7 @@ onedscolprdcus02.centralus.cloudapp.azure.com
 open.camscanner.com
 open.mkt32.net
 open.oneplus.net
+open.trackerlist.xyz
 opentracker.xyz
 ops-prod.us-west-2.k8s.ops.tune.com
 optimize.doubleclick.net
@@ -700,6 +708,7 @@ production-wordpress-blog.s3.ap-south-1.amazonaws.com
 promo.spotify.com
 ps.pndsn.com
 pub-net-srx-int-testing.spotify.com
+public.popcorn-tracker.org
 publish.vuukle.com
 push.services.mozilla.com
 qa-1plus.gupshup.io
@@ -735,6 +744,7 @@ request.api.cp.tune.com
 res-1.cdn.office.net
 res.cloudinary.com
 resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com
+retracker.spb.ru
 rewards.lazypay.in
 rngfoundation.com
 router.oneplus.com
@@ -755,6 +765,7 @@ safe-browsing-quorum.privacy.ghostery.net
 safebrowsing.googleapis.com
 sam-api.appbazaar.com
 sam-fg-api.appbazaar.com
+samsappsbn.vo.llnwd.net
 samsung-callerprofile.edge.hiyaapi.com
 samsung-ingestion.edge.hiyaapi.com
 sap.spotify.com
@@ -873,6 +884,7 @@ time.android.com
 todosupport.helpshift.com
 toifeeds.indiatimes.com
 torrent.gresille.org
+torrentclub.tech
 tpc.googlesyndication.com
 tpc.googlesyndication.com.proxy.c9w.net
 tpcnc.googlesyndication.com
@@ -882,12 +894,18 @@ trac.performoo.com
 track-eu.adformnet.akadns.net
 track.adform.net
 track.leanlab.co
+tracker.0o.is
+tracker.acg.gg
 tracker.cypherpunks.ru
 tracker.fatkhoala.org
 tracker.foreverpirates.co
+tracker.justseed.it
+tracker.mg64.net
 tracker.port443.xyz
+tracker.qt.is
 tracker.slowcheetah.org
 tracker.tallpenguin.org
+tracker.tfile.co
 tracker.thinelephant.org
 tracker.vanitycore.co
 trackero.mgageindia.com
@@ -949,7 +967,6 @@ www.baidu.com
 www.biglybt.com
 www.bing.com
 www.buybitcoinworldwide.com
-samsappsbn.vo.llnwd.net
 www.coinbase.com
 www.comscore.com
 www.copyscape.com
