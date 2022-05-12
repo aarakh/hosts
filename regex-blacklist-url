@@ -114,5 +114,5 @@
 ^ad((mob)|([a-z,0-9]+))\.[a-z]{2,4}$
 ^(lon)\d-[a-z]+-[a-z,0-9]+\.(lon)\d\.spotify\.com$
 #Below Regex blocks almost all CDN based websites
-^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((akamaihd)|(google)|(intercom)|(googleapis)|(oojoovae)|(admob)|(mojiva)|(akamaiedge))\.((com)|(net)|(io)|(in)|(org))$
+^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((akamaihd)|(google)|(intercom)|(googleapis)|(oojoovae)|(admob)|(mojiva)|(akamaiedge)|(vimeocdn)|(cloudflare))\.((com)|(net)|(io)|(in)|(org))$
 ^[a-z,0-9]+((-)|(\.))[a-z,0-9]+\.[a-z,0-9]+\.((edgecastcdn)|(highwebmedia)|(admob)|(doubleclick)|(spotify)|(mozilla)|(fastly)|(xiaomi)|(miui)|(thunderbird)|(microsoft)|(bitgravity)|(googleapis)|(netflix))\.((com)|(net)|(org))$
