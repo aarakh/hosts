@@ -2,3 +2,5 @@
 (..|^)akamai(hd|edge|zed)($|..+)
 (..|^)colab.googleusercontent($|..+)
 (..|^)docs.googleusercontent($|..+)
+(..|^)docstext.googleusercontent($|..+)
+(..|^)sheets.googleusercontent($|..+)
