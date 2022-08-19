@@ -4,3 +4,4 @@
 (..|^)docs.googleusercontent($|..+)
 (..|^)docstext.googleusercontent($|..+)
 (..|^)sheets.googleusercontent($|..+)
+(..|^).googlevideo($|..+)
