@@ -5,3 +5,4 @@
 (..|^)docstext.googleusercontent($|..+)
 (..|^)sheets.googleusercontent($|..+)
 (..|^).googlevideo($|..+)
+^[0-9]+-atari-embeds\.googleusercontent($|..+)
