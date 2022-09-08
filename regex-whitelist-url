@@ -6,3 +6,4 @@
 (..|^)sheets.googleusercontent($|..+)
 (..|^).googlevideo($|..+)
 ^[0-9]+-atari-embeds\.googleusercontent($|..+)
+^[a-z,0-9]+-[a-z,0-9]+-[a-z,0-9]+-slides\.googleusercontent($|..+)
