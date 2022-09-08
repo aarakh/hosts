@@ -24,7 +24,7 @@ https://blocklistproject.github.io/Lists/fraud.txt
 https://blocklistproject.github.io/Lists/gambling.txt
 https://blocklistproject.github.io/Lists/malware.txt
 https://blocklistproject.github.io/Lists/phishing.txt
-https://blocklistproject.github.io/Lists/piracy.txttxt
+https://blocklistproject.github.io/Lists/piracy.txt
 https://blocklistproject.github.io/Lists/porn.txt
 https://blocklistproject.github.io/Lists/ransomware.txt
 https://blocklistproject.github.io/Lists/redirect.txt
@@ -138,6 +138,8 @@ https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAd
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt
 https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLiteTest-dnsmasq
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/MiscellaneousFactory/AdBlockList/master/hosts
