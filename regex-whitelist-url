@@ -7,3 +7,4 @@
 (..|^).googlevideo($|..+)
 ^[0-9]+-atari-embeds\.googleusercontent($|..+)
 ^[a-z,0-9]+-[a-z,0-9]+-[a-z,0-9]+-slides\.googleusercontent($|..+)
+^d[a-z,0-9]+\.cloudfront.net
