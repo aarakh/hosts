@@ -118,3 +118,4 @@
 ^[a-z,0-9]+((-)|(\.))[a-z,0-9]+\.[a-z,0-9]+\.((edgecastcdn)|(highwebmedia)|(admob)|(doubleclick)|(spotify)|(mozilla)|(fastly)|(xiaomi)|(miui)|(thunderbird)|(microsoft)|(bitgravity)|(googleapis)|(netflix))\.((com)|(net)|(org))$
 ^idmb-app-chat-global-[a-z,0-9]+-[0-9]+\.[a-z,0-9]+-[a-z,0-9]+-[0-9]+\.[a-z,0-9]+\.amazonaws($|..+)
 ^idmb-app-chat-global-[a-z,0-9]+-[a-z,0-9]+-[0-9]+\.[a-z,0-9]+-[a-z,0-9]+-[0-9]+\.[a-z,0-9]+\.amazonaws($|..+)
+^((www)|(r\d+))((---)|\.)[a-z,0-9,-]+\.((gvt1)|(\c.2mdn))($|..+)
