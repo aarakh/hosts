@@ -44,7 +44,6 @@ https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_domains.tx
 https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.txt
 https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/BlacklistedDomains.txt
 https://github.com/d43m0nhLInt3r/socialblocklists/raw/master/Tracking/trackingblocklist.txt
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.list
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list
@@ -263,7 +262,7 @@ https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/Spotify.txt
 https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
-https://raw.githubusercontent.com/yourduskquibbles/webannoyances/blob/master/ultralist.txt
+https://github.com/yourduskquibbles/webannoyances/raw/master/ultralist.txt
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -299,4 +298,10 @@ https://www.technoy.de/lists/Suspicious.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
+https://hosts.ubuntu101.co.za/domains.list
+https://hosts.ubuntu101.co.za/ips.list
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/ips/ips0.list
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/domains/domains0.list
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/domains/domains1.list
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/domains/domains2.list
 https://github.com/aarakh/hosts/raw/master/hosts
