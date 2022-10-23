@@ -104,6 +104,7 @@ api.media.jio.com
 api.mixpanel.com
 api.msn.com
 api.pushamplify.com
+api.rb.sbixby.com
 api.samsungcloud.com
 api.sec.miui.com
 api.smartthings.com
@@ -315,7 +316,6 @@ dac.forkcdn.com
 dacdn.visualwebsiteoptimizer.com
 daisy.ubuntu.com
 darkreader.github.io
-darkreader.github.io
 darkreader.org
 datasharing.spotify.com
 dcape-na.amazon.com
@@ -457,6 +457,7 @@ growth-pa.googleadapis.com
 gtssl2-ocsp.geotrust.com
 gumlet.assettype.com
 gz0.googleusercontent.com
+headphones-cdn.meta.ndmdhs.com
 heads-ak-spotify-com.akamaized.net
 heads-ak.spotify.com.edgesuite.net
 heads-akp.spotify.com.edgesuite.net
@@ -541,7 +542,6 @@ ipv6.tracker.harry.lu
 irp-cdn.multiscreensite.com
 itunes.apple.com
 iv.doubleclick.net
-jep-asset.akamaized.net
 jep-asset.akamaized.net
 jethrodata.qlik.com
 jiocinemaweb.cdn.jio.com
@@ -640,6 +640,7 @@ msedge.b.tlu.dl.delivery.mp.microsoft.com
 mtalk.google.com
 muc11s15-in-f3.1e100.net
 multiverse.tune.com
+musiccenter-cdn.meta.ndmdhs.com
 mx0.comscore.com
 mx1.comscore.com
 mx2.comscore.com
@@ -1008,12 +1009,14 @@ wsdk-files.in.webengage.com
 wu-bg-shim.trafficmanager.net
 www.2checkout.com
 www.acm.org
+www.acs.org
 www.admob.com.akadns.net
 www.argentinaprivate.com
 www.baidu.com
 www.biglybt.com
 www.bing.com
 www.buybitcoinworldwide.com
+www.cambridge.org
 www.cloudpro.co.uk
 www.coinbase.com
 www.comscore.com
@@ -1024,6 +1027,8 @@ www.cyberpatrol.com
 www.cybersitter.com
 www.daum.net
 www.dev.spotify.pinterest.adtz.com
+www.dmv.org
+www.ecosia.org
 www.eff.org
 www.etmoney.com
 www.eurogirlsescort.com
@@ -1088,6 +1093,7 @@ www.usasexguide.nl
 www.valueresearchonline.com
 www.vbadvanced.com
 www.vbulletin.com
+www.wikisource.org
 www.wordreference.com
 www.worldlingo.com
 www.youtube.com
