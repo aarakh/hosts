@@ -6,6 +6,7 @@
 172.217.20.98
 192.121.140.177
 2.android.pool.ntp.org
+23-courier.push.apple.com
 35.186.224.53
 3ad.doubleclick.net
 4.0p14z000000k9ebcaa.00d3h0000066clyeaq.gslb.siteforce.com
@@ -386,6 +387,7 @@ ee-in-f95.1.e100.net
 eip-ntt.audio-ak.spotify.com.akahost.net
 eip-onnet.audio-ak.spotify.com.akahost.net
 eip-tata.audio-ak.spotify.com.akahost.net
+email-tracking.infobip.com
 email.uber.com
 encrypted-tbn0.gstatic.com
 engineering.intercom.io
@@ -432,6 +434,7 @@ ftp.fau.de
 g.whatsapp.net
 gads.pubmatic.com
 gads22000.pubmatic.com
+gateway.icloud.com
 gateway.prod.eu-west-1.forester.a2z.com
 ge-0-0-1-edge1.sc9.admob.com
 ge-0-0-43-crs1.sc9.admob.com
@@ -526,6 +529,7 @@ in1-spiky.wzrkt.com
 inapps.appsflyer.com
 index-of.co.uk
 inferno.demonoid.pw
+init-p01md.apple.com
 instant.page
 integration.torcai.com
 intercom.io
@@ -617,6 +621,7 @@ mercury.akamaized.net
 mercury.jio.com
 message-editor.scdn.co
 messages.google.com
+mesu-cdn.origin-apple.com.akadns.net
 metadata.google.internal
 metadatafeedback.spotify.com
 mil04s27-in-f131.1e100.net
@@ -667,10 +672,12 @@ nexus.intercom.io
 normandy.cdn.mozilla.net
 notify.bugsnag.com
 npmcdn.com
+nse.email-messaging.com
 ntp1.aliyun.com
 nts.netnod.se
 nwexp.airtel.com
 ocfconnect-shard-ap03-apnortheast2.samsungiotcloud.com
+ocsp2-lb.apple.com.akadns.net
 oemm2.airtel.com
 olcfg.1plus.io
 oneclient.sfx.ms
@@ -837,6 +844,8 @@ settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com
 settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
 settings.crashlytics.com
 settings.data.microsoft.com
+setup.fe.apple-dns.net
+setup.icloud.com
 sfapc.loki.delve.office.com
 sg.pool.ntp.org
 sgwww.spotify.com
@@ -983,6 +992,7 @@ vanheim.ff.avast.com
 verify.uxcam.com
 version.biglybt.com
 version6.biglybt.com
+versioncheck-bg.addons.thunderbird.net
 via.intercom.io
 vibecdn.forkcdn.com
 video-ad-stats.googlesyndication.com
@@ -994,6 +1004,8 @@ vowifi.jio.com
 vt.myvisualiq.net
 w.intercom.io
 wd-prod-ss-as-southeast-4-fe.southeastasia.cloudapp.azure.com
+weather-data.apple.com
+weather-edge.news.apple-dns.net
 webdir.online.lync.com
 webshell.suite.office.com
 webstore.samqaicongen.com
@@ -1104,6 +1116,7 @@ xe-0-0-3-0.agg1.zur1.ch.m247.com
 xe-3-3-1-0.core1.fra2.de.m247.com
 xfactor.spotify.com
 xiaomi-sdkbackend.gupshup.io
+xp.itunes-apple.com.akadns.net
 yandex.com
 yandex.ru
 yastatic.net
