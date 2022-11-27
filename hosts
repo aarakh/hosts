@@ -1,3 +1,4 @@
+_dns.resolver.arpa
 #NotethislistblocksmostofGoogleWebsitessoandroidwillcomplainaboutnotconenctedtointernet
 #Takenfrom:https://macsecurity.net/view/262-apple-com-scan-live-redirect-virus
 0.cn.pool.ntp.org
@@ -357,6 +358,7 @@ cer.comscore.com
 cf-st.sc-cdn.net
 cf-timedtext.aux.pv-cdn.net
 cgi.connect.qq.com
+changelogs.ubuntu.com
 changelogs.ubuntu.com
 chat-gateway-prod.chat.snapchat.com
 chat.cdn.whatsapp.net
@@ -1349,6 +1351,7 @@ tic.googlesyndication.com
 tigger-citadel.touchtype-fluency.com
 tiktok.com
 time.android.com
+time.apple.com
 time.cloudflare.com
 timelessvapes.com
 tlu.dl.delivery.mp.microsoft.com

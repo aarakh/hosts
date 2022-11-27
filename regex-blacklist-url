@@ -180,12 +180,12 @@ lgtvonline.lge.com
 ^wpc\.([a-z,0-9]+)+\.edgecastcdn\.net$
 ^wpc\.*\.edgecastcdn.net$
 ^ww([0-9]+)\.smartadserver\.com$
-^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((spotify)|(akamai)|(jumptap)|(highwebmedia)|(cloudfront)|(akamaiedge)|(aaplimg)|(mzstatic))\.((com)|(net))$
+^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((spotify)|(akamai)|(jumptap)|(highwebmedia)|(cloudfront)|(akamaiedge)|(aaplimg)|(mzstatic)|(msecnd)|(applimg))\.((com)|(net))$
 ^((ad[a-z]+)|(analytics)|(e[0-9]+))\.((spotify)|(google)|(whatsapp))\.((com)|([a-z]{2})|(net))$
 ^(([a-z])|(w[a-z,0-9]+)|(s[0-9]))\.((smartadserver)|(jumptap)|(admob)|(moatads)|(2mdn)|(wp))\.((com)|(net))$
 ^o-o((---)|(\.))preferred((---)|(\.))[a-z]+-(([a-z,0-9]+)|([a-z,0-9]+-[a-z,0-9]+))((---)|(\.))[a-z,0-9]+((---)|(\.))[a-z,0-9]+\.c\.((googlesyndication)|(2mdn))\.((com)|(net))$
 ^((sjc)|(sto))[0-9]-[a-z,0-9]+-[a-z,0-9]+\.((sjc)|(sto))(([0-9])|(\.))((spotify)|(\.spotify))\.((com)|(net))$
-^[a-z,0-9]+\.((glpals)|(admob)|(moatads)|(ggpht)|(dynamicnetworkservices))\.((com)|(net))$
+^[a-z,0-9]+\.((glpals)|(admob)|(moatads)|(ggpht)|(dynamicnetworkservices)|(apple))\.((com)|(net))$
 ^((ash)|(audio))((\d+)|())-[a-z]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((spotify)|(akamaized)|(edgesuite))\.((com)|(net))$
 ^ad((mob)|([a-z,0-9]+))\.[a-z]{2,4}$
 ^(lon)\d-[a-z]+-[a-z,0-9]+\.(lon)\d\.spotify\.com$
