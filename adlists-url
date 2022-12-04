@@ -300,10 +300,10 @@ https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 https://hosts.ubuntu101.co.za/domains.list
 https://hosts.ubuntu101.co.za/ips.list
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/ips/ips0.list
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/ips/ips0.list
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/domains/domains1.list
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/domains/domains2.list
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
 # Prevent Trackers and Malwares
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
