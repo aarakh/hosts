@@ -169,7 +169,7 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/Thi
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/ThirdParty/filter_250_DandelionSproutAnnoyances/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/ThirdParty/filter_251_LegitimateURLShortener/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/ThirdParty/filter_252_DandelionSproutSerboCroatian/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/ThirdParty/filter_253_IndianList /filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/ThirdParty/filter_253_IndianList/filter.txt
 https://raw.githubusercontent.com/Amazefcc233/no-ads-hosts/master/hosts
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
@@ -300,10 +300,10 @@ https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 https://hosts.ubuntu101.co.za/domains.list
 https://hosts.ubuntu101.co.za/ips.list
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/ips/ips0.list
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/domains/domains0.list
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/domains/domains1.list
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/domains/domains2.list
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/ips/ips0.list
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/domains/domains1.list
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/domains/domains2.list
 # Prevent Trackers and Malwares
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
