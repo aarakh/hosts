@@ -190,10 +190,11 @@ lgtvonline.lge.com
 ^ad((mob)|([a-z,0-9]+))\.[a-z]{2,4}$
 ^(lon)\d-[a-z]+-[a-z,0-9]+\.(lon)\d\.spotify\.com$
 #Below Regex blocks almost all CDN based websites
-^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((akamaihd)|(google)|(intercom)|(googleapis)|(oojoovae)|(admob)|(mojiva)|(akamaiedge)|(vimeocdn)|(cloudflare))\.((com)|(net)|(io)|(in)|(org))$
+^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((akamaihd)|(google)|(intercom)|(googleapis)|(oojoovae)|(admob)|(mojiva)|(akamaiedge)|(vimeocdn)|(cloudflare)|(icloud))\.((com)|(net)|(io)|(in)|(org))$
 ^[a-z,0-9]+((-)|(\.))[a-z,0-9]+\.[a-z,0-9]+\.((edgecastcdn)|(highwebmedia)|(admob)|(doubleclick)|(spotify)|(mozilla)|(fastly)|(xiaomi)|(miui)|(thunderbird)|(microsoft)|(bitgravity)|(googleapis)|(netflix))\.((com)|(net)|(org))$
 ^idmb-app-chat-global-[a-z,0-9]+-[0-9]+\.[a-z,0-9]+-[a-z,0-9]+-[0-9]+\.[a-z,0-9]+\.amazonaws($|..+)
 ^idmb-app-chat-global-[a-z,0-9]+-[a-z,0-9]+-[0-9]+\.[a-z,0-9]+-[a-z,0-9]+-[0-9]+\.[a-z,0-9]+\.amazonaws($|..+)
 ^((www)|(r\d+))((---)|\.)[a-z,0-9,-]+\.((gvt1)|(\c.2mdn))($|..+)
 ^nyc[0-9]-prod-worker-[0-9]+\.ms\.thehousepartyapp($|..+)
 ^api-[0-9]+-[0-9]+-[0-9]+\.twitter.com
+^[0-9]+-courier\.push\.apple($|..+)
