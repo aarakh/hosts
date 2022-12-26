@@ -350,4 +350,5 @@ https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribabl
 # Prevent Phishing
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
+https://raw.githubusercontent.com/ph00lt0/blocklists/master/pihole-blocklist.txt
 https://github.com/aarakh/hosts/raw/master/hosts
