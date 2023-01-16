@@ -5,11 +5,11 @@ hosts -- acts as blacklist, this same was referenced in adlists-url at end
 
 whitelist-url -- acts as whitelist now maintained in private repo
 
-blacklist-url -- acts as blacklist (not in use)
+blacklist-url -- acts as blacklist (not in use, since using hosts file in adlists)
 
 adlists-url -- consists of urls of other well-known block lists + my own personalized blocklist as in last line
 
-regex-whitelist-url -- add regex of actual urls for whitelisting (not in use)
+regex-whitelist-url -- add regex of actual urls for whitelisting
 
 regex-blacklist-url -- add regex of actual urls for blacklisting, specifying other FQDN urls in this file NOT works
 
