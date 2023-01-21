@@ -122,6 +122,7 @@ api.admob.xiaomi.com
 api.agora.io
 api.airtel.tv
 api.apps.apple.com
+api.apptentive.com
 api.aps.skype.com
 api.asm.skype.com
 api.bloka.net
@@ -153,8 +154,10 @@ api.snapchat.com
 api.snapcraft.io
 api.snapkit.com
 api.status.io
+api.taplytics.com
 api.thehousepartyapp.com
 api.twitter.com
+api.usebutton.com
 api.weathercn.com
 api.zwizzarmyknife.com
 api1-prod-alb.secrethouse.party
@@ -176,6 +179,8 @@ app-01-me.airtel.com
 app-10.engage-jio.com
 app-10.engage.jio.com
 app-measurement.com
+app-measurement.com
+app.adjust.com
 app.adjust.com
 app.adjust.net.in
 app.adjust.world
@@ -288,6 +293,7 @@ bixby-client.aibixby.com
 bixby-developer-assets.aibixby.com
 blackrockog.com
 blacksearch.org
+blankpaper-446790069.ap-south-1.elb.amazonaws.com
 blazedvapes.com
 blob.ma1prdstr05a.store.core.windows.net
 blog.mistiecigs.com
@@ -331,6 +337,7 @@ cbdtesters.co#family.health
 cde-ta-g7g.amazon.com
 cdn-1.gamecoast.org
 cdn-api.co-vin.in
+cdn-settings.segment.com
 cdn.adnxs.com
 cdn.ampproject.org
 cdn.anpproject.org
@@ -414,6 +421,7 @@ config-api.internet.apps.samsung.com
 config-msdk.freshchat.com
 config.edge.skype.com
 config.samqaicongen.com
+config2.mparticle.com
 configuration.ma.tune.com
 connect.facebook.net
 connectivity-check.ubuntu.com
@@ -475,6 +483,7 @@ daisy.ubuntu.com
 dankstop.com
 darkreader.github.io
 darkreader.org
+data.flurry.com
 datasharing.spotify.com
 davincivaporizer.com
 db5-client-s.gateway.messenger.live.com
@@ -489,9 +498,11 @@ decide.mixpanel.com
 deepotsav.lokmat.com
 demos2.qlik.com
 detectportal.firefox.com
+dev.appboy.com
 dev.lab.tune.com
 developer.thunderbird.net
 developers.intercom.io
+device-api.urbanairship.com
 device-metrics-us.amazon.com
 devices.lsmdm.com
 dht.biglybt.com
@@ -647,6 +658,7 @@ g.whatsapp.net
 gads.pubmatic.com
 gads22000.pubmatic.com
 ganjarunner.com
+gate.hockeyapp.net
 gateway.discord.gg
 gateway.icloud.com
 gateway.prod.eu-west-1.forester.a2z.com
@@ -682,6 +694,7 @@ gos-api.god-gsp.io
 gos-api.gos-gsp.io
 gql.reddit.com
 graph.facebook.com
+graph.facebook.com
 greenmachinemn.com
 groupme.com
 growth-pa.googleadapis.com
@@ -703,6 +716,7 @@ help.github.com
 hl-display.com
 hot.com
 hotvapes.com
+hpdegprod.jio.com
 htms.heytapmobile.com
 httpdns-ocloud.heytapmobile.com
 httpdns-push.heytapmobile.com
@@ -830,6 +844,7 @@ kenichishibata.net
 keys.lightspeedsystems.com
 kinesis.ap-south-1.amazonaws.com
 kvinit-prod.api.kochava.com
+kvinit-prod.api.kochava.com
 lab.tune.com
 labs.comscore.com
 labs.tune.com
@@ -905,6 +920,7 @@ maxcdn.bootstrapcdn.com
 maxvaping.com
 mb.resolver.msg.global.xiaomi.net
 mcusercontent.com
+md-i-c.apptimize.com
 mdh-pa.googleadapis.com
 mdm.oneplus.net
 media-match.com
@@ -932,8 +948,10 @@ moat.pxl.ace.advertising.com
 moatads.com
 moatads.com.edgekey.net
 mobile-collector.newrelic.com
+mobile-collector.newrelic.com
 mobile-content.uber.com
 mobile-sdk-api.intercom.io
+mobile.eum-appdynamics.com
 mobile.launchdarkly.com
 mobileapi.flipkart.com
 mobileapp.apple.com
@@ -1100,6 +1118,7 @@ publish.vuukle.com
 purehempbotanicals.com
 push.groupme.com
 push.services.mozilla.com
+px-conf.perimeterx.net
 qa-1plus.gupshup.io
 qat.comscore.com
 qlikid-qa.qlik.com
@@ -1147,6 +1166,7 @@ resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com
 rest.ably.io
 retracker.spb.ru
 rewards.lazypay.in
+risk-api.inauth.com
 rngfoundation.com
 rocketfuelvapes.com
 router.oneplus.com
@@ -1335,6 +1355,7 @@ switchboard.mixpanel.com
 sync.search.spotxchange.com
 sync.tidaltv.com
 syndication.twitter.com
+t.appsflyer.com
 t.appsflyer.com
 t.me
 t.myvisualiq.net
