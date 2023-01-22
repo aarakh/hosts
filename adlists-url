@@ -7,13 +7,6 @@ https://badmojr.github.io/1Hosts/mini/domains.txt
 https://badmojr.github.io/1Hosts/Pro/domains.txt
 https://badmojr.github.io/1Hosts/Xtra/domains.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-https://block.energized.pro/basic/formats/hosts.txt
-https://block.energized.pro/blu/formats/hosts.txt
-https://block.energized.pro/bluGo/formats/hosts.txt
-https://block.energized.pro/porn/formats/hosts.txt
-https://block.energized.pro/spark/formats/hosts.txt
-https://block.energized.pro/ultimate/formats/hosts.txt
-https://block.energized.pro/unified/formats/hosts.txt
 https://blocklistproject.github.io/Lists/abuse.txt
 https://blocklistproject.github.io/Lists/ads.txt
 https://blocklistproject.github.io/Lists/crypto.txt
@@ -67,7 +60,7 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts?showintro=0
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&startdate%5Bday%5D=&startdate%5Bmonth%5D=&startdate%5Byear%5D=&mimetype=plaintext
 https://pgl.yoyo.org/as/serverlist.php
-https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0
+https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts?showintro=0
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
 https://publicsuffix.org/list/public_suffix_list.dat
