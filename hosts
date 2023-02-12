@@ -179,8 +179,6 @@ app-01-me.airtel.com
 app-10.engage-jio.com
 app-10.engage.jio.com
 app-measurement.com
-app-measurement.com
-app.adjust.com
 app.adjust.com
 app.adjust.net.in
 app.adjust.world
@@ -694,7 +692,6 @@ gos-api.god-gsp.io
 gos-api.gos-gsp.io
 gql.reddit.com
 graph.facebook.com
-graph.facebook.com
 greenmachinemn.com
 groupme.com
 growth-pa.googleadapis.com
@@ -844,7 +841,6 @@ kenichishibata.net
 keys.lightspeedsystems.com
 kinesis.ap-south-1.amazonaws.com
 kvinit-prod.api.kochava.com
-kvinit-prod.api.kochava.com
 lab.tune.com
 labs.comscore.com
 labs.tune.com
@@ -948,7 +944,6 @@ mmx-ds.cdn.whatsapp.net
 moat.pxl.ace.advertising.com
 moatads.com
 moatads.com.edgekey.net
-mobile-collector.newrelic.com
 mobile-collector.newrelic.com
 mobile-content.uber.com
 mobile-sdk-api.intercom.io
@@ -1208,6 +1203,7 @@ sap.spotify.com
 sb.scorecardresearch.com
 sb.voicefive.com
 sc-cdn.net
+sc-static.net
 scannables.scdn.co
 scdn.line-apps.com
 schacon.github.io
@@ -1356,7 +1352,6 @@ switchboard.mixpanel.com
 sync.search.spotxchange.com
 sync.tidaltv.com
 syndication.twitter.com
-t.appsflyer.com
 t.appsflyer.com
 t.me
 t.myvisualiq.net
@@ -1735,6 +1730,7 @@ www.qwant.com
 www.r1---sn-buq-njal.c.2mdn.net
 www.r5---sn-buq-njal.c.2mdn.net
 www.reddit.com
+www.redditstatic.com
 www.reuters.com
 www.reviewingthis.com
 www.rfa.org
