@@ -1,4 +1,5 @@
 _dns.resolver.arpa
+_https._tcp.build.openvpn.net
 #NotethislistblocksmostofGoogleWebsitessoandroidwillcomplainaboutnotconenctedtointernet
 #Takenfrom:https://macsecurity.net/view/262-apple-com-scan-live-redirect-virus
 0.cn.pool.ntp.org
@@ -316,6 +317,7 @@ bstatistics.com
 bt.acg.gg
 bt.xxx-tracker.com
 btcpay.blocka.net
+build.openvpn.net	
 buy-link-001.lon.spotify.com
 c-evt.moatads.com
 c-fallback-lightspeed.ably.io
