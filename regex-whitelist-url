@@ -10,4 +10,4 @@
 ^[a-z,0-9]+-[a-z,0-9]+-[a-z,0-9]+-slides\.googleusercontent($|..+)
 ^d[a-z,0-9]+\.cloudfront.net
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((akamaiedge)|(akamai))($|..+)
-^doc((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))drive-data-export.googleusercontent($|..+)
+^doc((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))((drive-data-export)|(docs))((\.)|(-))googleusercontent($|..+)
