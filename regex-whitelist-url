@@ -1,5 +1,6 @@
 (..|^)g(v(t[12])?)($|..+)
 #(..|^)akamai(hd|edge|zed)($|..+)
+## ^is[0-9]+((\.)|(-))ssl((\.)|(-))mzstatic($|..+) -- This is for AppsStore Images
 (..|^)colab.googleusercontent($|..+)
 (..|^)docs.googleusercontent($|..+)
 (..|^)docstext.googleusercontent($|..+)
@@ -9,3 +10,4 @@
 ^[a-z,0-9]+-[a-z,0-9]+-[a-z,0-9]+-slides\.googleusercontent($|..+)
 ^d[a-z,0-9]+\.cloudfront.net
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((akamaiedge)|(akamai))($|..+)
+^doc((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))drive-data-export.googleusercontent($|..+)
