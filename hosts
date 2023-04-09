@@ -1,5 +1,6 @@
 _dns.resolver.arpa
 _https._tcp.build.openvpn.net
+_https._tcp.packages.microsoft.com
 #NotethislistblocksmostofGoogleWebsitessoandroidwillcomplainaboutnotconenctedtointernet
 #Takenfrom:https://macsecurity.net/view/262-apple-com-scan-live-redirect-virus
 0.cn.pool.ntp.org
@@ -422,6 +423,7 @@ config-api.internet.apps.samsung.com
 config-msdk.freshchat.com
 config.edge.skype.com
 config.samqaicongen.com
+config.teams.microsoft.com
 config2.mparticle.com
 configuration.ma.tune.com
 connect.facebook.net
@@ -469,6 +471,7 @@ cupdates.trusteer.com
 curaleaf.com
 cutiegirl.ru
 cx.atdmt.com
+cxcs.microsoft.net
 d-11.winudf.com
 d.line-scdn.net
 d2gi7ultltnc2u.cloudfront.net
@@ -634,6 +637,7 @@ fasttracker.foreverpirates.co
 fbcdn.net
 fbsbx.com
 fe2cr.update.microsoft.com
+fe3cr.delivery.mp.microsoft.com
 fea.assettype.com
 feed.ff.avast.com
 feed.inaaj.org
@@ -685,6 +689,7 @@ go.blokada.org
 go.mail.ru
 go.microsoft.com
 go.microsoft.com
+go.microsoft.com
 go.scdn.co
 go.trouter.skype.com
 goatse.me
@@ -702,6 +707,7 @@ gos-api.god-gsp.io
 gos-api.gos-gsp.io
 gql.reddit.com
 graph.facebook.com
+graph.microsoft.com
 greenmachinemn.com
 groupme.com
 growth-pa.googleadapis.com
@@ -866,6 +872,7 @@ lh3.googleusercontent.com
 lh4.googleusercontent.com
 lh5.googleusercontent.com
 lh6.googleusercontent.com
+licensing.mp.microsoft.com
 lightshade.com
 lightspeed-realtime.ably.io
 link-reports-noneu.truecaller.com
@@ -1053,6 +1060,7 @@ p7-buy.itunes.apple.com
 p7nvu5it0k.execute-api.us-west-2.amazonaws.com
 p8wykv5a-android.mobile-messenger.intercom.com
 p99.pstatp.com
+packages.microsoft.com
 pagead-googlehosted.l.google.com
 pagead2.googlesyndication.com
 pagead46.googlesyndication.com
@@ -1262,6 +1270,7 @@ sessions.bugsnag.com
 settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com
 settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
 settings-win.data.microsoft.com
+settings-win.data.microsoft.com
 settings.crashlytics.com
 settings.data.microsoft.com
 setup.fe.apple-dns.net
@@ -1332,6 +1341,7 @@ static-exp2.licdn.com
 static.2mdn.net
 static.asm.skype.com
 static.cdn-website.com
+static.edge.microsoftapp.net
 static.smartspends.com
 static.whatsapp.net
 static.xx.fbcdn.net
@@ -1536,6 +1546,7 @@ vt.myvisualiq.net
 w.intercom.io
 wd-prod-ss-as-southeast-4-fe.southeastasia.cloudapp.azure.com
 wdcp.microsoft.com
+wdcpalt.microsoft.com
 weather-data.apple.com
 weather-edge.news.apple-dns.net
 web.archive.org
@@ -1714,6 +1725,7 @@ www.linkedin.com
 www.liquidbarn.com
 www.lokmatnews.in
 www.marijuanabreak.com
+www.microsoft.com
 www.migvapor.com
 www.mikearthur.net
 www.mister-e-liquid.com
