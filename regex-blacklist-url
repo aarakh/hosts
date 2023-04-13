@@ -57,7 +57,6 @@
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
 (\.|^)*pre-?rolls?*\.
-(\.|^)*video-?rolls?*\.
 (\.|^)*trick-play*\.
 (\.|^)*timed-?text*\.
 
@@ -174,7 +173,6 @@ lgtvonline.lge.com
 ^.*paypal-?objects.*\.
 ^.*paypal.*\.
 ^.*rncdn4.*\.
-^.*stats?.*\.
 ^.*traffic-?junky.*\.
 ^.*trafficjunky.*\.
 ^.geo?.*\.
