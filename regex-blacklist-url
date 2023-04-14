@@ -56,7 +56,6 @@
 ^mads\.
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
-(\.|^)*pre-?rolls?*\.
 (\.|^)*trick-play*\.
 (\.|^)*timed-?text*\.
 
