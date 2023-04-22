@@ -22801,6 +22801,7 @@ api.rewards.brave.com
 api.rollbar.com
 api.sail-personalize.com
 api.samsungcloud.com
+api.samsungknowledge.com
 api.sec.miui.com
 api.segment.io
 api.sharedcount.com
@@ -22861,6 +22862,7 @@ api15.cmdragracing.com
 api2-19.musical.ly
 api2-prod-alb.secrethouse.party
 api2-t2.musical.ly
+api2.branch.io
 api2.branch.io
 api2.musical.ly
 api2.testrequest.info
@@ -29828,6 +29830,7 @@ cdn.blueconic.net
 cdn.boomtrain.com
 cdn.botframework.com
 cdn.branch.io
+cdn.branch.io
 cdn.brandmetrics.com
 cdn.brcdn.com
 cdn.brid.tv
@@ -35937,7 +35940,6 @@ doh.chi.ahadns.net
 doh.cleanbrowsing.org
 doh.cox.net
 doh.crypto.sx
-doh.defaultroutes.de
 doh.digitalcourage.de
 doh.dns.apple.com
 doh.dns.sb
@@ -35972,6 +35974,7 @@ doh.post-factum.tk
 doh.powerdns.org
 doh.pub
 doh.quickline.ch
+doh.routes.de
 doh.routes.de
 doh.sandbox.opendns.com
 doh.sb
@@ -36184,7 +36187,7 @@ download.timesink.com
 download.windowsupdate.com
 downloadandsave-a.akamaihd.net
 downloadcounter.de
-downloads.default-homepage-network.com
+downloads.-homepage-network.com
 downloads.kissmetrics.com
 doyoudreamup.com
 dp-cdn.multiscreensite.com
@@ -36358,6 +36361,7 @@ du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
 dual-a-0001.a-msedge.net
 dualstack.cloudinary.com
+dualstack.com.imgix.map.fastly.net
 dualstack.f4.shared.global.fastly.net
 duapps.com
 duba.net
@@ -38285,6 +38289,7 @@ etx.indiatimes.com
 etym6cero.com
 eu-adcenter.net
 eu-api.samsungpositioning.com
+eu-elm.secb2b.com
 eu-gmtdmp.gd1.mookie1.com
 eu-pn1.adserver.yahoo.com
 eu-pn2.adserver.yahoo.com
@@ -43099,6 +43104,7 @@ hrzn-nxt.com
 hs-analytics.net
 hs-banner.com
 hs-data.com
+hs-prod-content.imgix.net
 hs-scripts.com
 hs-sites.com
 hs.facebook.com
@@ -45392,6 +45398,7 @@ joy.ochronus.online
 joyourself.com
 joyreactor.cc
 joyshub.com
+jp-col-tcp.nelo.linecorp.com
 jp-u.openx.net
 jp.google.com
 jp.gridns.xyz
@@ -56163,6 +56170,7 @@ reson8.com
 resonantbrush.com
 resonate.com
 resource-marketing.com
+resource.leap.app
 resources.aldec.com
 resources.att.com
 resources.cdn.seon.io
@@ -58713,7 +58721,7 @@ si.2.cqcounter.com
 si.google.com
 si.netmng.com
 si.wsj.net
-si1.default-homepage-network.com
+si1.-homepage-network.com
 sib.im
 sibautomation.com
 sibforms.com
@@ -60384,6 +60392,7 @@ ssl.aafp.org
 ssl.clickbank.net
 ssl.duapps.com
 ssl.facebook.com
+ssl.google-analytics.com
 ssl.google-analytics.com
 ssl.google-analytics.com blacklist
 ssl.gstatic.com
@@ -66068,6 +66077,7 @@ utorido.com
 utrack.hexun.com
 utrade.com
 utraffic.engine.adglare.net
+uts-front.line-apps.com
 uts.auction.co.kr
 utteranc.es
 uttermosthobbies.com
@@ -71736,6 +71746,7 @@ www-shard09-s.justclick.ru
 www-shard11-vwxyz.justclick.ru
 www-smt.daiichisankyo-hc.co.jp
 www-stats-so.f-secure.com
+www.-homepage-network.com
 www.005.free-counter.co.uk
 www.006.free-counter.co.uk
 www.007.free-counter.co.uk
@@ -73274,7 +73285,6 @@ www.debenturessqpwls.download
 www.debsfunpages.com
 www.deepervbjacffg.download
 www.deerberrynveztw.download
-www.default-homepage-network.com
 www.defeatismbmakiplm.download
 www.degivuladles.review
 www.deignsgcngub.download
@@ -76130,7 +76140,7 @@ wz.tynt.com
 wzpwxe.4lapy.ru
 wzrkt.com
 wzyjup.patch.com
-x-default-stgec.uplynk.com
+x--stgec.uplynk.com
 x-cart.com
 x-traceur.com
 x.about.com
