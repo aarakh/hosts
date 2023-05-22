@@ -11,3 +11,4 @@
 ^d[a-z,0-9]+\.cloudfront.net
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((akamaiedge)|(akamai))($|..+)
 ^doc((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))((drive-data-export)|(docs))((\.)|(-))googleusercontent($|..+)
+(..|^)flightproxy.teams.microsoft($|..+)
