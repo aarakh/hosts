@@ -1,10 +1,10 @@
+#NotethislistblocksmostofGoogleWebsitessoandroidwillcomplainaboutnotconenctedtointernet
+#Takenfrom:https://macsecurity.net/view/262-apple-com-scan-live-redirect-virus
 _checkdns.home-assistant.io
 _dns.resolver.arpa
 _https._tcp.build.openvpn.net
 _https._tcp.packages.microsoft.com
 _thums.ero-advertising.com
-#NotethislistblocksmostofGoogleWebsitessoandroidwillcomplainaboutnotconenctedtointernet
-#Takenfrom:https://macsecurity.net/view/262-apple-com-scan-live-redirect-virus
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -2194,6 +2194,7 @@ a.kuchebraska.com
 a.lazyswipe.com
 a.ligatus.com
 a.liktirov.com
+a.line.me
 a.livefreefunwith.me
 a.lokipodi.com
 a.mailmunch.co
@@ -34224,6 +34225,7 @@ d.la4-c2-ia2.salesforceliveagent.com
 d.liadm.com
 d.ligatus.com
 d.line-scdn.net
+d.line.me
 d.moatads.com
 d.mobpartner.mobi
 d.moreover.com
@@ -42312,6 +42314,7 @@ gvt9.com
 gw-analytics.panasonic.com
 gw.adotsolution.com
 gw.google.com
+gw.line.naver.jp
 gw1.surf-town.net
 gw2.surf-town.net
 gw3.surf-town.net
@@ -51918,6 +51921,7 @@ objectpartners.actonservice.com
 objectreduction.com
 objects.tremormedia.com
 obnrap.neimanmarcus.com
+obs.line-scdn.net
 obscenesidewalk.com
 observantice.com
 observantsumzcl.download
@@ -63439,6 +63443,7 @@ tobepure.com
 toboads.com
 tockify.com
 todacell.com
+today.line.me
 todayads.com
 todaysdeals4u.com
 todo-ta-g7g.amazon.com
@@ -63752,6 +63757,7 @@ tr.jkyg.espmp-cufr.net
 tr.kpyn.espmp-cufr.net
 tr.leads.direct
 tr.lesmarques.envie-de-bien-manger.com
+tr.line.me
 tr.mail.enviedebienmanger.fr
 tr.mail.floa.fr
 tr.mail.koregraf.com
@@ -66098,6 +66104,7 @@ utrade.com
 utraffic.engine.adglare.net
 uts-front.line-apps.com
 uts.auction.co.kr
+uts.front.line-apps.com
 utteranc.es
 uttermosthobbies.com
 uu.google.com
@@ -70298,6 +70305,7 @@ vortex.data.glbdns2.microsoft.com
 vortex.data.microsoft.com
 vortex.hulu.com
 vortextraffic.com
+vos.line-scdn.net
 vowifi.jio.com
 vowjnembargoing.review
 vox-cdn.com
