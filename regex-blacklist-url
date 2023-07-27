@@ -212,6 +212,10 @@ lgtvonline.lge.com
 ([A-Za-z0-9.-]*\.)?liveadvert($|..+)
 ([A-Za-z0-9.-]*\.)?fbcdn($|..+)
 ([A-Za-z0-9.-]*\.)?302br($|..+)
+([A-Za-z0-9.-]*\.)?paycount($|..+)
+([A-Za-z0-9.-]*\.)?adk2($|..+)
+([A-Za-z0-9.-]*\.)?hpg.com($|..+)
+([A-Za-z0-9.-]*\.)?((adk2)|(adk2x)|(hpg\.com)|(paycount)|(302br)|(fbcdn)|(liveadvert)|(voluumtrk))($|..+)
 
 ## This is to block amazon hosts
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-)))[a-z,0-9]+((\.)|(-))a2z($|..+)
