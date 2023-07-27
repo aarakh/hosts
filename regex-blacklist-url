@@ -196,6 +196,7 @@ lgtvonline.lge.com
 ^((ash)|(audio))((\d+)|())-[a-z]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((spotify)|(akamaized)|(edgesuite))\.((com)|(net))$
 ^ad((mob)|([a-z,0-9]+))\.[a-z]{2,4}$
 ^(lon)\d-[a-z]+-[a-z,0-9]+\.(lon)\d\.spotify\.com$
+
 #Below Regex blocks almost all CDN based websites
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((akamaihd)|(google)|(intercom)|(googleapis)|(oojoovae)|(admob)|(mojiva)|(akamaiedge)|(vimeocdn)|(cloudflare)|(icloud))\.((com)|(net)|(io)|(in)|(org))$
 ^[a-z,0-9]+((-)|(\.))[a-z,0-9]+\.[a-z,0-9]+\.((edgecastcdn)|(highwebmedia)|(admob)|(doubleclick)|(spotify)|(mozilla)|(fastly)|(xiaomi)|(miui)|(thunderbird)|(microsoft)|(bitgravity)|(googleapis)|(netflix))\.((com)|(net)|(org))$
@@ -207,4 +208,10 @@ lgtvonline.lge.com
 ^[0-9]+-courier\.push\.apple($|..+)
 ^[0-9]+\.engine\..mobileapptracking($|..+)
 ^[a-z,0-9]+((\.)|(-))prod.do.dsp.mp.microsoft.com
+([A-Za-z0-9.-]*\.)?voluumtrk($|..+)
+([A-Za-z0-9.-]*\.)?liveadvert($|..+)
+([A-Za-z0-9.-]*\.)?fbcdn($|..+)
+([A-Za-z0-9.-]*\.)?302br($|..+)
+
+## This is to block amazon hosts
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-)))[a-z,0-9]+((\.)|(-))a2z($|..+)

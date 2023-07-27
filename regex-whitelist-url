@@ -13,3 +13,5 @@
 ^doc((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))((drive-data-export)|(docs))((\.)|(-))googleusercontent($|..+)
 (..|^)flightproxy.teams.microsoft($|..+)
 (..|^)ess.apple($|..+)
+^[a-z,0-9]+-apidata.googleusercontent.com
+^gspe[0-9]+-ssl.ls.apple($|..+)
