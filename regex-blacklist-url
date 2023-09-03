@@ -217,6 +217,7 @@ lgtvonline.lge.com
 ([A-Za-z0-9.-]*\.)?hpg\.com\.br
 ([A-Za-z0-9.-]*\.)?((adk2)|(adk2x)|(paycount)|(302br)|(fbcdn)|(liveadvert)|(voluumtrk))($|..+)
 ^encrypted-tbn[0-9]+\.gstatic($|..+)
+^o[0-9]+\.ingest\.sentry($|..+)
 
 ## This is to block amazon hosts
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-)))[a-z,0-9]+((\.)|(-))a2z($|..+)
