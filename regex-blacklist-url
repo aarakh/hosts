@@ -208,20 +208,20 @@ lgtvonline.lge.com
 ^[0-9]+-courier\.push\.apple($|..+)
 ^[0-9]+\.engine\..mobileapptracking($|..+)
 ^[a-z,0-9]+((\.)|(-))prod.do.dsp.mp.microsoft.com
-([A-Za-z0-9.-]+*\.)?voluumtrk($|..+)
-([A-Za-z0-9.-]+*\.)?liveadvert($|..+)
-([A-Za-z0-9.-]+*\.)?fbcdn($|..+)
-([A-Za-z0-9.-]+*\.)?302br($|..+)
-([A-Za-z0-9.-]+*\.)?paycount($|..+)
-([A-Za-z0-9.-]+*\.)?adk2($|..+)
-([A-Za-z0-9.-]+*\.)?hpg\.com\.br
-([A-Za-z0-9.-]+*\.)?((adk2)|(adk2x)|(paycount)|(302br)|(fbcdn)|(liveadvert)|(voluumtrk))($|..+)
+([A-Za-z0-9.-]*\.)?voluumtrk($|..+)
+([A-Za-z0-9.-]*\.)?liveadvert($|..+)
+([A-Za-z0-9.-]*\.)?fbcdn($|..+)
+([A-Za-z0-9.-]*\.)?302br($|..+)
+([A-Za-z0-9.-]*\.)?paycount($|..+)
+([A-Za-z0-9.-]*\.)?adk2($|..+)
+([A-Za-z0-9.-]*\.)?hpg\.com\.br
+([A-Za-z0-9.-]*\.)?((adk2)|(adk2x)|(paycount)|(302br)|(fbcdn)|(liveadvert)|(voluumtrk))($|..+)
 ^encrypted-tbn[0-9]+\.gstatic($|..+)
 ^o[0-9]+\.ingest\.sentry($|..+)
-([A-Za-z0-9.-]+*\.)?dynamic.dol.ru
-^([A-Za-z0-9.-]+*\.)?client-channel.google.com
-^([A-Za-z0-9.-]+*\.)?taskassist-pa.clients.google.com
-^([A-Za-z0-9.-]+*\.)?doubleclick.net
+([A-Za-z0-9.-]*\.)?dynamic.dol.ru
+^([A-Za-z0-9.-]*\.)?client-channel.google.com
+^([A-Za-z0-9.-]*\.)?taskassist-pa.clients.google.com
+^([A-Za-z0-9.-]*\.)?doubleclick.net
 
 
 ## This is to block amazon hosts
