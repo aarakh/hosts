@@ -7378,6 +7378,7 @@ api.thetrafficstat.net
 api.tiles.mapbox.com
 api.time.com
 api.tinypass.com
+api.tplinkra.com
 api.traversedlp.com
 api.tweetmeme.com
 api.twitter.com
@@ -25414,6 +25415,7 @@ http-inputs.clear.splunkcloudgc.com
 httpaccess.com
 httpdns-ocloud.heytapmobile.com
 httpdns-push.heytapmobile.com
+httpdns-push.heytapmobile.com.lan
 httpdns.ocloud.heytapmobi.com
 httpool.com
 https://app-measurement.com/sdk-exp
@@ -31685,6 +31687,7 @@ mf.google.com
 mfadsrvr.com
 mfcdn.net
 mfeed.newzfind.com
+mffeedapicdn.smartspends.com
 mfio.cf
 mftp.linksynergy.com
 mg.dt00.net
@@ -32740,6 +32743,7 @@ mz28ismn.com
 mzadx.go2affise.com
 mzjruy.yocoyoco.com
 mzstatic.com
+n-aps1-wap-gw.tplinkcloud.com
 n-core-pipe.com
 n-devs-smb.tplinkcloud.com
 n-devs.tplinkcloud.com
@@ -34494,6 +34498,7 @@ ot.obi.si
 ot.obi.sk
 ota.cartrawler.com
 ota.lokalise.co
+otag.h2os.com
 otaserve.net
 otdaft.hotelcareer.de
 otf.msn.com
@@ -44519,6 +44524,7 @@ time.apple.com
 time.cloudflare.com
 time.is
 time.ly
+time.nist.gov
 time.samsungcloudsolution.com
 time.wf
 time.windows.com
