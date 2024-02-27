@@ -220,6 +220,8 @@ lgtvonline.lge.com
 ^([A-Za-z0-9.-]*\.)?client-channel.google.com
 ^([A-Za-z0-9.-]*\.)?taskassist-pa.clients.google.com
 ^([A-Za-z0-9.-]*\.)?doubleclick.net
+^([A-Za-z0-9.-]*\.)?smartspends.($|..+)
+^([A-Za-z0-9.-]*\.)?tplinkcloud.($|..+)
 
 
 ## This is to block amazon hosts
