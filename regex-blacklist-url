@@ -222,6 +222,7 @@ lgtvonline.lge.com
 ^([A-Za-z0-9.-]*\.)?doubleclick.net
 ^([A-Za-z0-9.-]*\.)?smartspends.($|..+)
 ^([A-Za-z0-9.-]*\.)?tplinkcloud.($|..+)
+^([A-Za-z0-9.-_]*\.)?siteintercept.qualtrics.($|..+)
 
 
 ## This is to block amazon hosts
