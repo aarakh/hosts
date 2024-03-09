@@ -224,7 +224,8 @@ lgtvonline.lge.com
 ^([A-Za-z0-9.-]*\.)?tplinkcloud.($|..+)
 ^([A-Za-z0-9.-_]*\.)?siteintercept.qualtrics.($|..+)
 ^([A-Za-z0-9.-]*\.)?footlocker.($|..+)
-([A-Za-z0-9.-]*\.)?.bitterstrawberry.($|..+)
+^([A-Za-z0-9.-]*\.)?.bitterstrawberry.($|..+)
+^([A-Za-z0-9.-_]*\.)?.ib.adnxs.($|..+)
 
 ## This is to block amazon hosts
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-)))[a-z,0-9]+((\.)|(-))a2z($|..+)
