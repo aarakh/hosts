@@ -16,3 +16,5 @@
 ^[a-z,0-9]+-apidata.googleusercontent.com
 ^gspe[0-9]+-ssl.ls.apple($|..+)
 ^media[a-z,0-9]+\.giphy.com
+^instagram((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))fna.fbcdn.net
+^scontent((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))cdninstagram.com
