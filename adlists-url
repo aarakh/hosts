@@ -254,8 +254,6 @@ https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/ana
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt
-https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl_light.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
