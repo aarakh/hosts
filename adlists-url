@@ -255,6 +255,7 @@ https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.
 https://raw.githubusercontent.com/MiscellaneousFactory/AdBlockList/master/hosts
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/domains
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
 https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/master/output/domains/INACTIVE/list
 https://raw.githubusercontent.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/master/ips.list
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
@@ -264,6 +265,8 @@ https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/ana
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt
+https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl_light.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
