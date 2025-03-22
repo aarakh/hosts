@@ -3,7 +3,6 @@ http://winhelp2002.mvps.org/hosts.txt
 https://adaway.org/hosts.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://badmojr.github.io/1Hosts/Lite/domains.txt
-https://badmojr.github.io/1Hosts/mini/domains.txt
 https://badmojr.github.io/1Hosts/Pro/domains.txt
 https://badmojr.github.io/1Hosts/Xtra/domains.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
@@ -38,7 +37,6 @@ https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/easylistchina.txt
 https://getadhell.com/standard-package.txt
 https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_domains.txt
-https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_domains.txt
 https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_domains.txt
 https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.txt
 https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/BlacklistedDomains.txt
@@ -52,11 +50,6 @@ https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://gitlab.com/Wiggum27/blockers/-/raw/master/hosts
-https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt
-https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts
-https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_optional
-https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
-https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
@@ -249,14 +242,12 @@ https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.l
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_facebook0.txt
-https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLiteTest-dnsmasq
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
 https://raw.githubusercontent.com/MiscellaneousFactory/AdBlockList/master/hosts
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/domains
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/master/output/domains/INACTIVE/list
 https://raw.githubusercontent.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/master/ips.list
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
 https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt
@@ -338,7 +329,4 @@ https://www.technoy.de/lists/FireTVAds.txt
 https://www.technoy.de/lists/malware2.txt
 https://www.technoy.de/lists/Session-Replay.txt
 https://www.technoy.de/lists/Suspicious.txt
-https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
-https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 https://github.com/aarakh/hosts/raw/master/hosts
