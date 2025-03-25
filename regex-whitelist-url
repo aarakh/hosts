@@ -18,3 +18,4 @@
 ^media[a-z,0-9]+\.giphy.com
 ^instagram((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))fna.fbcdn.net
 ^scontent((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))cdninstagram.com
+^[0-9]{3}\.[0-9]{3}\.[0-9]{3}\.[0-9]{3}\.in-addr.arpa
