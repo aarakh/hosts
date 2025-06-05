@@ -52,9 +52,6 @@ https://gitlab.com/Wiggum27/blockers/-/raw/master/hosts
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
-https://hosts.ubuntu101.co.za/badips.txt
-https://hosts.ubuntu101.co.za/domains.list
-https://hosts.ubuntu101.co.za/ips.list
 https://lists.blocklist.de/lists/all.txt
 https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
@@ -292,8 +289,6 @@ https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/min
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://secure.fanboy.co.nz/fanboy-annoyance.txt
-https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://someonewhocares.org/hosts/hosts
 https://someonewhocares.org/hosts/zero/hosts
 https://urlhaus.abuse.ch/downloads/hostfile
@@ -322,7 +317,8 @@ https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.technoy.de/lists/blocklist.txt
 https://www.technoy.de/lists/fake-streaming.txt
 https://www.technoy.de/lists/FireTVAds.txt
-https://www.technoy.de/lists/malware2.txt
 https://www.technoy.de/lists/Session-Replay.txt
 https://www.technoy.de/lists/Suspicious.txt
 https://github.com/aarakh/hosts/raw/master/hosts
+https://github.com/aarakh/hosts/raw/master/hosts1
+https://github.com/aarakh/hosts/raw/master/domains
