@@ -5,6 +5,7 @@ https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://badmojr.github.io/1Hosts/Lite/domains.txt
 https://badmojr.github.io/1Hosts/Pro/domains.txt
 https://badmojr.github.io/1Hosts/Xtra/domains.txt
+https://big.oisd.nl
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://blocklistproject.github.io/Lists/abuse.txt
 https://blocklistproject.github.io/Lists/adobe.txt
@@ -30,9 +31,6 @@ https://blocklistproject.github.io/Lists/tracking.txt
 https://blocklistproject.github.io/Lists/vaping.txt
 https://blocklistproject.github.io/Lists/whatsapp.txt
 https://blocklistproject.github.io/Lists/youtube.txt
-https://small.oisd.nl
-https://big.oisd.nl
-https://nsfw.oisd.nl
 https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/easylistchina.txt
 https://getadhell.com/standard-package.txt
@@ -54,6 +52,7 @@ https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://lists.blocklist.de/lists/all.txt
 https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
+https://nsfw.oisd.nl
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt
 https://perflyst.github.io/PiHoleBlocklist/android-tracking.txt
@@ -254,6 +253,7 @@ https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.t
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/pihole-blocklist.txt
 https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
@@ -289,6 +289,7 @@ https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/min
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://small.oisd.nl
 https://someonewhocares.org/hosts/hosts
 https://someonewhocares.org/hosts/zero/hosts
 https://urlhaus.abuse.ch/downloads/hostfile
@@ -319,7 +320,6 @@ https://www.technoy.de/lists/fake-streaming.txt
 https://www.technoy.de/lists/FireTVAds.txt
 https://www.technoy.de/lists/Session-Replay.txt
 https://www.technoy.de/lists/Suspicious.txt
-https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
+https://github.com/aarakh/hosts/raw/master/domains
 https://github.com/aarakh/hosts/raw/master/hosts
 https://github.com/aarakh/hosts/raw/master/hosts1
-https://github.com/aarakh/hosts/raw/master/domains
