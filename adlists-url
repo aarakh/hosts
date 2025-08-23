@@ -50,10 +50,12 @@ https://gitlab.com/Wiggum27/blockers/-/raw/master/hosts
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+https://hosts.ubuntu101.co.za/badips.txt
+https://hosts.ubuntu101.co.za/domains.list
+https://hosts.ubuntu101.co.za/ips.list
 https://lists.blocklist.de/lists/all.txt
 https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
 https://nsfw.oisd.nl
-https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt
 https://perflyst.github.io/PiHoleBlocklist/android-tracking.txt
 https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt
@@ -315,11 +317,6 @@ https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-https://www.technoy.de/lists/blocklist.txt
-https://www.technoy.de/lists/fake-streaming.txt
-https://www.technoy.de/lists/FireTVAds.txt
-https://www.technoy.de/lists/Session-Replay.txt
-https://www.technoy.de/lists/Suspicious.txt
 https://github.com/aarakh/hosts/raw/master/domains
 https://github.com/aarakh/hosts/raw/master/hosts
 https://github.com/aarakh/hosts/raw/master/hosts1
