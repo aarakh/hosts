@@ -403,7 +403,7 @@ google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
 ^([A-Za-z0-9.-_]*\.)?gvt[0-9]+.($|..+)
 ^([A-Za-z0-9.-_]*\.)?51yes.($|..+)
 ^www\.hostingcloud\.($|..+)
-^([A-Za-z0-9.-_]+\.)*(antpool\.com|binance\.com|bitcoin\.com|cryptohosting\.eu|mpool\.su|icanmining\.ru|zpool\.ca|000webhostapp\.com|doubleclick\.net|clickfunnels\.com|nanopool\.org|coinhive\.com|bitfex\.trade|bw\.com|mktoweb\.com|mktoresp\.com|marketingautomation\.services|casalemedia\.com|omtrdc\.net)$
+^([A-Za-z0-9.-_]+\.)*(antpool\.com|binance\.com|bitcoin\.com|cryptohosting\.eu|mpool\.su|icanmining\.ru|zpool\.ca|000webhostapp\.com|doubleclick\.net|clickfunnels\.com|nanopool\.org|coinhive\.com|bitfex\.trade|bw\.com|mktoweb\.com|mktoresp\.com|marketingautomation\.services|casalemedia\.com|omtrdc\.net|mjt\.lu|dnset\.com|infusionsoft\.com|affise\.com|leadpages\.co)$
 
 ## This is to block amazon hosts
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-)))[a-z,0-9]+((\.)|(-))a2z($|..+)
