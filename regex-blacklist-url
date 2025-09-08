@@ -403,7 +403,9 @@ google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
 ^([A-Za-z0-9.-_]*\.)?gvt[0-9]+.($|..+)
 ^([A-Za-z0-9.-_]*\.)?51yes.($|..+)
 ^www\.hostingcloud\.($|..+)
-^([A-Za-z0-9.-_]+\.)*(antpool\.com|binance\.com|bitcoin\.com|cryptohosting\.eu|mpool\.su|icanmining\.ru|zpool\.ca|000webhostapp\.com|doubleclick\.net|clickfunnels\.com|nanopool\.org|coinhive\.com|bitfex\.trade|bw\.com|mktoweb\.com|mktoresp\.com|marketingautomation\.services|casalemedia\.com|omtrdc\.net|mjt\.lu|dnset\.com|infusionsoft\.com|affise\.com|leadpages\.co|bitfex\.trade|hiveon\.net|coinhive\.com|online-metrix\.net)$
+^([A-Za-z0-9.-_]+\.)*(antpool\.com|binance\.com|bitcoin\.com|cryptohosting\.eu|mpool\.su|icanmining\.ru|zpool\.ca|000webhostapp\.com|doubleclick\.net|clickfunnels\.com|nanopool\.org|coinhive\.com|bitfex\.trade|bw\.com|mktoweb\.com|mktoresp\.com|marketingautomation\.services|casalemedia\.com|omtrdc\.net|mjt\.lu|dnset\.com|infusionsoft\.com|affise\.com|leadpages\.co|bitfex\.trade|hiveon\.net|coinhive\.com|online-metrix\.net|2o7\.net|sendgrid\.net|adx1\.com|demdex\.net|mystat-in\.net|refersion\.com|adtelligent\.com|emltrk\.com|clickbank\.net|webcindario\.com|omniture\.com|onesignal\.com|keywordblocks\.com|pxf\.io|rfihub\.com|tvsquared\.com|attn\.tv|domain\.name|adj\.st|sjv\.io|infusionsoft\.app|voluumtrk\.com|matomo\.cloud|clksite\.com|qualtrics\.com|weborama\.fr|apponic\.com|piwik\.pro|intellitxt\.com|pushengage\.com|imrworldwide\.com|meetrics\.net)$
+^([A-Za-z0-9.-_]+\.)*(cryptopool\.net|actonservice\.com|ethosdistro\.com|nanopool\.org|ddns\.net|btcchina\.com|cryptopool\.eu|btcc\.com|coinlab\.biz|abseits\.ski|btc\.top|bw\.com)$
+^([A-Za-z0-9.-_]+\.)*(cryptopool|btcc|coinlab|abseits|btc)($|..+)
 
 ## This is to block amazon hosts
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-)))[a-z,0-9]+((\.)|(-))a2z($|..+)
