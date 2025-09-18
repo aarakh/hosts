@@ -385,6 +385,7 @@ google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
 ([A-Za-z0-9.-]*\.)?302br($|..+)
 ([A-Za-z0-9.-]*\.)?paycount($|..+)
 ([A-Za-z0-9.-]*\.)?adk2($|..+)
+([A-Za-z0-9.-]*\.)?wp($|..+)
 ([A-Za-z0-9.-]*\.)?hpg\.com\.br
 ([A-Za-z0-9.-]*\.)?((adk2)|(adk2x)|(paycount)|(302br)|(fbcdn)|(liveadvert)|(voluumtrk))($|..+)
 ^encrypted-tbn[0-9]+\.gstatic($|..+)
@@ -407,6 +408,7 @@ google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
 ^([A-Za-z0-9.-_]+\.)*(cryptopool\.net|actonservice\.com|ethosdistro\.com|nanopool\.org|ddns\.net|btcchina\.com|cryptopool\.eu|btcc\.com|coinlab\.biz|abseits\.ski|btc\.top|bw\.com)$
 ^([A-Za-z0-9.-_]+\.)*(cryptopool|btcc|coinlab|abseits|btc)($|..+)
 ^([A-Za-z0-9.-_]+\.)*(dedicatedpool|triplemining|nicehash|f2pool|ydns|webhop|actonservice|ccminer|easyx|gethash|herominers|cryptonight)($|..+)
+^([A-Za-z0-9.-_]+\.)*(totalh|tremorhub|optimizely|openx|piano|sentry|freewheel|braze|igodigital|tapfiliate|adnxs)($|..+)
 
 ## This is to block amazon hosts
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-)))[a-z,0-9]+((\.)|(-))a2z($|..+)
