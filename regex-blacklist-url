@@ -404,6 +404,8 @@ google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
 ^gsp[a-z,0-9]+((-)|(\.))ssl\.ls\.apple($|..+)
 ^gsp[a-z,0-9]+((-)|(\.))ssl\.ls\.origin-apple($|..+)
 ^gsp[a-z,0-9]+((-)|(\.))ssl\.ls\.apple\.akadns($|..+)
+^gsp[a-z,0-9]+((-)|(\.))ssl\.ls\.apple\.edgesuite($|..+)
+^a[0-9]+\.dscapi[0-9]+\.akamai($|..+)
 ^([A-Za-z0-9.-_]*\.)?gvt[0-9]+.($|..+)
 ^([A-Za-z0-9.-_]*\.)?51yes.($|..+)
 ^www\.hostingcloud\.($|..+)
