@@ -3,44 +3,35 @@
 # @aeris - https://github.com/mmotti/pihole-regex/pull/14/commits/a288488dda4f0e4c0ed8c71e8c0bb7d0785fa26c
 ^(.+[_.-])?eulerian($|..+)
 ^(.+[_.-])?dnsdelegation\.io$
-
 #Facebook
 ^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$
-
 # twitter
 # As suggested by @mettacrawler (https://github.com/mettacrawler)
 ^(.+[_.-])?(twitter|twimg|cms-twdigitalassets)\.(co\.)?[^.]+$
-
 #AMP
 ^(.+[_.-])?amp(project)?\.
-
 #Internationalized domains
 ^(www[0-9]*\.)?xn--
-
 # Installation
 # If you have made it directly to this list and are wondering how to apply these to your Pi-hole
 # installation, there is a Python (3.6+) script to automate this process. Please see:
 # https://github.com/mmotti/pihole-regex
-
 # N.B - False Positives
 # Due to the restrictive nature of these regexps, you may encounter a small number of false positives
 # for domain names that are similar to ad-serving / tracking domains.
 # I will continue to update the following whitelist with any conflicts, and you can choose to
 # add them to your install if you so wish, or use them as a reference.
 # https://raw.githubusercontent.com/mmotti/pihole-regex/master/whitelist.list
-
 # Regular Expressions:
 # https://perflyst.github.io/PiHoleBlocklist/regex.list
 # Title: Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension
 # Version: 02October2021v1
-
 # LG
 (^|\.)ibs\.lgappstv\.com
 (^|\.)lgsmartad\.com
 (^|\.)smartshare\.lgtvsdp\.com
 (^|\.)rdx2\.lgtvsdp\.com
 ^[a-z]{7,15}$
-
 # Samsung
 (^|\.)giraffic($|..+)
 (^|\.)internetat\.tv$
@@ -51,10 +42,8 @@
 (^|\.)samsungelectronics($|..+)
 # (^|\.)samsungotn($|..+) # prevents updates
 (^|\.)samsungrm($|..+)
-
 # Vizio
 (\.|^)tvinteractive\.tv$
-
 # Other
 # (^|\.)myhomescreen\.tv$ # can produce false positives, rather block individual domains
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
@@ -74,7 +63,6 @@
 ^stat(s|istics)?[0-9]*[_.-]
 (\.|^)*trick-play*\.
 (\.|^)*timed-?text*\.
-
 # Google and YouTube
 # Special Thanks to https://github.com/nickspaargaren/no-google
 ^r[0123456789]+((-{3})|(.))sn-.{8}.googlevideo.com$
@@ -87,7 +75,6 @@
 (..|^)googlevideo($|..+)
 (..|^)waze($|..+)
 (.*.|^)y(outube|timg)($|..+)
-
 ## Thanks to https://obutterbach.medium.com/unlock-the-full-potential-of-pihole-e795342e0e36
 ^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
 ^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
@@ -160,9 +147,7 @@ lgtvonline.lge.com
 (^|\.)treasuredata($|..+)
 (^|\.)unity(|3d)($|..+)
 (^|\.)unityads(|\.co)($|..+)
-
 ## Copied from https://discourse.pi-hole.net/t/collection-of-regex-for-blacklisting/43178. Thank you to the OPs.
-
 ((abtauthprd|acr0|amauthprd|cdn|configprd|fkp|gamespromotion|musicid|notice|noticecdn|noticefile|oempprd|prderrordumphsm|prov|sas|vdterms)\.|^)samsungcloudsolution\.(com|net)
 ([A-Za-z0-9.-]*\.)?.doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})
 ([A-Za-z0-9.-]*\.)?adnxs(\.\w{2}\.\w{2}|\.\w{2,4})
@@ -320,12 +305,9 @@ lgtvonline.lge.com
 double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 google-{0,}(analytic|syndication|(ad[a-z0-9]*|tag)-{0,}service)[s]\.[a-z]{2,7}$
 google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
-
 ##  This RegEX statements will block Facebook Tracking Domains
 ^.*(abc|act|ads|ae[0-9][0-9]|alpha|android|api|app(s|spot)?|ar-ar|atlas|attachments?|badge|beta(net)?|bidder|business|boost(com)?|business|channel|check[0-9]?|chat|clients?|connect|deloitte|developers?|devs?|doh|dns|edge(ray)?|en-[a-z]([a-z])?|ent-[a-z]|error|es-[a-z][a-z]|external|fbcallback|fbcdn-?(s?photos?|profiles?|videos?)|fb-?external|fb-lt|flex|fr-[a-z][a-z]|free-?(basics?)?|general-?electric|graph-photos?|graph-profiles?|graph-videos?|hootsuite|hphotos?|hr-hr|hu-hu|huawei|id-id|instgrm|intern|investor|inyour|iphone|landmarkgroup|latest|live(rail)?|login|lookaside|mail|messenger|mobile|mtouch|national|ncontent|newsec|news(room)?|nic|nike|nl-nl|nokia|norcap|noroestecom|nova|ns[0-9]|photos?|mqtt|ocbc|onepublicservice|onevedanta|orcart|origincache|oculus|pa-in|pacific|pixel|pl-pl|platform|postmaster|prod|promis|pt-br|pt-pt|register|research|ro-ro|ru-ru|rupload|static|savethechildren|scontent|secure|sk-sk|snaptu|softtech|ssl|stanleyblackanddecker|star-mini|star|static|stormberg|streaming-?(graph)?|sonar|snaptu|staging|tunnel|telenor|touch|uploads?|vpn|v?thumbs?|vupload|watchdog|webdav|whatsapp|wooga|work|www?[0-9]?|zero|zh-cn).*\.(facebook|fb|fbcdn|fbsbx|fburl|tfbnw|thefacebook)($|..+)
 #########################################################################################
-
-
 # My own custom filters
 (^a([0-9]+)+avoddashs3ww-a\.akamaihd\.net)$
 ((^gae2)|(^gew1))-+(accesspoint)-([a-z]+)-+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+([a-z,0-9]+)+\.ap\.spotify($|..+)
@@ -367,7 +349,6 @@ google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
 ^((ash)|(audio))((\d+)|())-[a-z]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((spotify)|(akamaized)|(edgesuite))\.((com)|(net))$
 ^ad((mob)|([a-z,0-9]+))\.[a-z]{2,4}$
 ^(lon)\d-[a-z]+-[a-z,0-9]+\.(lon)\d\.spotify($|..+)
-
 #Below Regex blocks almost all CDN based websites
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+\.((akamaihd)|(google)|(intercom)|(googleapis)|(oojoovae)|(admob)|(mojiva)|(akamaiedge)|(vimeocdn)|(cloudflare)|(icloud))\.((com)|(net)|(io)|(in)|(org))$
 ^[a-z,0-9]+((-)|(\.))[a-z,0-9]+\.[a-z,0-9]+\.((edgecastcdn)|(highwebmedia)|(admob)|(doubleclick)|(spotify)|(mozilla)|(fastly)|(xiaomi)|(miui)|(thunderbird)|(microsoft)|(bitgravity)|(googleapis)|(netflix))\.((com)|(net)|(org))$
@@ -399,9 +380,10 @@ google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
 ^([A-Za-z0-9.-_]+\.)*(antpool\.com|binance\.com|bitcoin\.com|cryptohosting\.eu|mpool\.su|icanmining\.ru|zpool\.ca|000webhostapp\.com|doubleclick\.net|clickfunnels\.com|nanopool\.org|coinhive\.com|bitfex\.trade|bw\.com|mktoweb\.com|mktoresp\.com|marketingautomation\.services|casalemedia\.com|omtrdc\.net|mjt\.lu|dnset\.com|infusionsoft\.com|affise\.com|leadpages\.co|bitfex\.trade|hiveon\.net|coinhive\.com|online-metrix\.net|2o7\.net|sendgrid\.net|adx1\.com|demdex\.net|mystat-in\.net|refersion\.com|adtelligent\.com|emltrk\.com|clickbank\.net|webcindario\.com|omniture\.com|onesignal\.com|keywordblocks\.com|pxf\.io|rfihub\.com|tvsquared\.com|attn\.tv|domain\.name|adj\.st|sjv\.io|infusionsoft\.app|voluumtrk\.com|matomo\.cloud|clksite\.com|qualtrics\.com|weborama\.fr|apponic\.com|piwik\.pro|intellitxt\.com|pushengage\.com|imrworldwide\.com|meetrics\.net)$
 ^([A-Za-z0-9.-_]+\.)*(cryptopool\.net|actonservice\.com|ethosdistro\.com|nanopool\.org|ddns\.net|btcchina\.com|cryptopool\.eu|btcc\.com|coinlab\.biz|abseits\.ski|btc\.top|bw\.com|wp\.com)$
 ^([A-Za-z0-9.-_]+\.)*(cryptopool|btcc|coinlab|abseits|btc)($|..+)
-^([A-Za-z0-9.-_]+\.)*(dedicatedpool|triplemining|nicehash|f2pool|ydns|webhop|actonservice|ccminer|easyx|gethash|herominers|cryptonight)($|..+)
-^([A-Za-z0-9.-_]+\.)*(totalh|tremorhub|optimizely|openx|piano|sentry|freewheel|braze|igodigital|tapfiliate|adnxs)($|..+)
+^([A-Za-z0-9.-_]+\.)*(dedicatedpool|triplemining|nicehash|f2pool|ydns|webhop|actonservice|ccminer|easyx|gethash|herominers|cryptonight|hashhot)($|..+)
+^([A-Za-z0-9.-_]+\.)*(totalh|tremorhub|optimizely|openx|piano|sentry|freewheel|braze|igodigital|tapfiliate|adnxs|coin-miners|suprnova|crypit)($|..+)
 ^i[0-9]+\.wp($|..+)
-
+^rr[0-9]+---sn-[A-Za-z0-9.-_]+-[A-Za-z0-9.-_]+\.googlevideo\.com
+^rr[0-9]+---sn-[A-Za-z0-9.-_]+\.googlevideo\.com
 ## This is to block amazon hosts
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-)))[a-z,0-9]+((\.)|(-))a2z($|..+)
