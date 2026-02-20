@@ -383,5 +383,7 @@ google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
 ^([A-Za-z0-9.-_]+\.)*(dedicatedpool|triplemining|nicehash|f2pool|ydns|webhop|actonservice|ccminer|easyx|gethash|herominers|cryptonight|hashhot)($|..+)
 ^([A-Za-z0-9.-_]+\.)*(totalh|tremorhub|optimizely|openx|piano|sentry|freewheel|braze|igodigital|tapfiliate|adnxs|coin-miners|suprnova|crypit|googlevideo)($|..+)
 ^i[0-9]+\.wp($|..+)
+^thumb-v[0-9]+\.xhpingcdn\.com
+^([A-Za-z0-9.-_]+)*(ix\.1\.oca\.nflxvideo\.net)
 ## This is to block amazon hosts
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-)))[a-z,0-9]+((\.)|(-))a2z($|..+)
