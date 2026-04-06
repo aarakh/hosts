@@ -386,6 +386,6 @@ google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
 ^thumb-v[0-9]+\.xhpingcdn\.com
 ^([A-Za-z0-9.-_]+)*(ix\.1\.oca\.nflxvideo\.net)
 ^([A-Za-z0-9.-_\.]+\.)*(truecaller|truecallerstatic)($|..+)
-^([A-Za-z0-9.-_\.]+\.)*(jamfcloud|zoho|manageengine)($|..+)
+^([A-Za-z0-9.-_\.]+\.)*(jamfcloud|zoho|manageengine|activtrak)($|..+)
 ## This is to block amazon hosts
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-)))[a-z,0-9]+((\.)|(-))a2z($|..+)
