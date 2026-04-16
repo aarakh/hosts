@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Description
 My Host Files for AdBlock,PiHole
 
@@ -20,4 +21,12 @@ pihole-updatelists.conf -- configuration file used for pihole-updatelists setup 
 ### Below Whitelisting command No longer required after using https://github.com/jacklul/pihole-updatelists (thank you to jacklul)
 Command Line to add Whitelist in PiHole
 
-`for I in $(curl "{https://raw.githubusercontent.com/aarakh/hosts/master/allowed-hosts}"); do pihole -w $I;done`
+=======
+# hosts
+Host Files for AdBlock
+ntp-hosts -- acts as blacklist
+allowed-hosts -- acts as whitelist
+
+
+Both the files can be used in popular Adblockers
+>>>>>>> 812649f (Create README.md)
