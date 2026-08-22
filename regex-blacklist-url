@@ -407,5 +407,6 @@ google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
 ^([A-Za-z0-9.-_\.]+\.)*(truecaller|truecallerstatic)($|..+)
 ^([A-Za-z0-9.-_\.]+\.)*(jamfcloud|zoho|manageengine|activtrak)($|..+)
 ^([A-Za-z0-9.-_\.]+\.)*(tplinknbu|tplinkcloud)($|..+)
+^time-([A-Za-z0-9.-_]+\.)*(nist)\.gov$
 ## This is to block amazon hosts
 ^[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-))[a-z,0-9]+((\.)|(-)))[a-z,0-9]+((\.)|(-))a2z($|..+)
